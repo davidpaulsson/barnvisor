@@ -1,9 +1,17 @@
 import { Heart } from "lucide-react";
 import { Separator } from "./ui/separator";
+import { cn } from "@/lib/utils";
+import type { HTMLAttributes } from "react";
 
-export const Footer = () => {
+export const Footer = ({
+  className,
+  ...props
+}: HTMLAttributes<HTMLDivElement>) => {
   return (
-    <footer className="prose text-sm text-muted-foreground">
+    <footer
+      className={cn("prose text-sm text-muted-foreground", className)}
+      {...props}
+    >
       <Separator className="my-4" />
       <p>
         Skapad med{" "}
