@@ -31,15 +31,17 @@ export default async function Page({ params }: Props) {
         Tillbaka
       </Link>
 
-      <article className="prose prose-zinc dark:prose-invert max-w-none">
+      <article className="prose dark:prose-invert max-w-none">
         <h1 className="mb-2">{song.title}</h1>
-        {song.author && (
-          <>
-            <p className="text-muted-foreground mt-0">av {song.author}</p>
-            <Separator className="my-6" />
-          </>
+
+        {song.author && song.author !== "Traditionell" && (
+          <p className="text-muted-foreground mt-0">av {song.author}</p>
         )}
+
+        <Separator className="my-4" />
+
         <div
+          className="prose prose-zinc dark:prose-invert [&_p]:text-pretty"
           dangerouslySetInnerHTML={{
             __html: song.content,
           }}
