@@ -15,9 +15,9 @@ export const Footer = ({
       <Separator className="my-4" />
       <p>
         Skapad med{" "}
-        <Heart className="h-4 inline-block w-4 fill-red-600 stroke-none" /> av{" "}
+        <Heart className="inline-block h-4 w-4 fill-red-600 stroke-none" /> av{" "}
         <a
-          className="text-muted-foreground no-underline hover:text-foreground transition-colors"
+          className="text-muted-foreground no-underline transition-colors hover:text-foreground"
           href="https://davidpaulsson.se"
         >
           David Paulsson

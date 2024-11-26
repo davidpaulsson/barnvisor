@@ -25,17 +25,17 @@ export default async function Page({ params }: Props) {
     <div className="container max-w-3xl py-8">
       <Link
         href="/"
-        className="group flex items-center gap-1 text-sm text-muted-foreground hover:text-primary mb-8"
+        className="group mb-8 flex items-center gap-1 text-sm text-muted-foreground hover:text-primary"
       >
         <ChevronLeft className="h-4 w-4 transition-transform group-hover:-translate-x-1" />
         Tillbaka
       </Link>
 
-      <article className="prose dark:prose-invert max-w-none">
+      <article className="prose max-w-none dark:prose-invert">
         <h1>{song.title}</h1>
 
         {song.author && song.author !== "Traditionell" && (
-          <p className="text-muted-foreground mt-0">av {song.author}</p>
+          <p className="mt-0 text-muted-foreground">av {song.author}</p>
         )}
 
         <Separator className="my-4" />

@@ -22,7 +22,7 @@ export default function Home() {
             En samling av populära barnvisor
           </p>
         </div>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 w-full">
+        <div className="grid w-full grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
           {songs.map((song) => (
             <Card key={song.id} className="transition-colors hover:bg-muted/50">
               <Link href={`/${song.id}`}>
