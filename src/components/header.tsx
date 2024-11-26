@@ -8,15 +8,20 @@ export const Header = ({
   ...props
 }: HTMLAttributes<HTMLDivElement>) => {
   return (
-    <header className={cn(className)} {...props}>
-      <nav>
-        <ul>
-          <li>
-            <Link href="/">Home</Link>
-          </li>
-        </ul>
-      </nav>
-      <ModeToggle />
+    <header
+      className={cn(
+        "flex items-center justify-between gap-4 border-b p-4",
+        className,
+      )}
+      {...props}
+    >
+      <h2>
+        <Link href="/">Barnvisor</Link>
+      </h2>
+
+      <div className="flex items-center gap-4">
+        <ModeToggle />
+      </div>
     </header>
   );
 };

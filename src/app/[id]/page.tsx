@@ -22,31 +22,21 @@ export default async function Page({ params }: Props) {
   const song = await getSongData(params.id);
 
   return (
-    <div className="container max-w-3xl py-8">
-      <Link
-        href="/"
-        className="group mb-8 flex items-center gap-1 text-sm text-muted-foreground hover:text-primary"
-      >
-        <ChevronLeft className="h-4 w-4 transition-transform group-hover:-translate-x-1" />
-        Tillbaka
-      </Link>
+    <>
+      <h1 className="py-8 text-8xl font-bold tracking-tight">{song.title}</h1>
 
-      <article className="prose max-w-none dark:prose-invert">
-        <h1>{song.title}</h1>
+      <div className="grid grid-cols-4 gap-4">
+        <p className="mt-0 text-muted-foreground">{song.author}</p>
 
-        {song.author && song.author !== "Traditionell" && (
-          <p className="mt-0 text-muted-foreground">av {song.author}</p>
-        )}
-
-        <Separator className="my-4" />
-
-        <div
-          className="prose prose-zinc dark:prose-invert [&_p]:text-pretty"
-          dangerouslySetInnerHTML={{
-            __html: song.content,
-          }}
-        />
-      </article>
-    </div>
+        <article className="prose col-span-1 col-start-2 max-w-none dark:prose-invert">
+          <div
+            className="prose prose-zinc dark:prose-invert [&_p]:text-pretty"
+            dangerouslySetInnerHTML={{
+              __html: song.content,
+            }}
+          />
+        </article>
+      </div>
+    </>
   );
 }
