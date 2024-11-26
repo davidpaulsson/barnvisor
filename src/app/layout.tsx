@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
 import Link from "next/link";
-import { Separator } from "@/components/ui/separator";
+import { Footer } from "@/components/footer";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -39,15 +39,11 @@ export default function RootLayout({
               <li>
                 <Link href="/">Home</Link>
               </li>
-              {/* Add more navigation links here */}
             </ul>
           </nav>
         </header>
         <main>{children}</main>
-        <footer>
-          <Separator className="my-4" />
-          <p>&copy; {new Date().getFullYear()} Barnvisor</p>
-        </footer>
+        <Footer />
       </body>
     </html>
   );
