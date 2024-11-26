@@ -16,9 +16,9 @@ export default function Home() {
   return (
     <div className="container py-8">
       <div className="flex flex-col items-start gap-4 md:gap-8">
-        <div className="grid gap-4">
-          <h1 className="font-bold text-3xl md:text-4xl">Barnvisor</h1>
-          <p className="text-xl text-muted-foreground">
+        <div className="grid">
+          <h1>Barnvisor</h1>
+          <p className="text-muted-foreground">
             En samling av populära barnvisor
           </p>
         </div>

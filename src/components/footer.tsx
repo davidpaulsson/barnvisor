@@ -9,7 +9,7 @@ export const Footer = () => {
         Skapad med{" "}
         <Heart className="h-4 inline-block w-4 fill-red-600 stroke-none" /> av{" "}
         <a
-          className="text-muted-foreground no-underline hover:text-black transition-colors"
+          className="text-muted-foreground no-underline hover:text-foreground transition-colors"
           href="https://davidpaulsson.se"
         >
           David Paulsson

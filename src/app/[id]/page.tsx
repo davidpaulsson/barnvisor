@@ -32,7 +32,7 @@ export default async function Page({ params }: Props) {
       </Link>
 
       <article className="prose dark:prose-invert max-w-none">
-        <h1 className="mb-2">{song.title}</h1>
+        <h1>{song.title}</h1>
 
         {song.author && song.author !== "Traditionell" && (
           <p className="text-muted-foreground mt-0">av {song.author}</p>
