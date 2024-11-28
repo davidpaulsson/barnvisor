@@ -3,22 +3,24 @@ import { Undo2 } from "lucide-react";
 import type { Metadata } from "next";
 import Link from "next/link";
 
-interface Props {
-  params: {
-    id: string;
-  };
-}
-
-export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const song = await getSongData(params.id);
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ id: string }>;
+}): Promise<Metadata> {
+  const song = await getSongData((await params).id);
   return {
     title: `${song.title} | Barnvisor`,
     description: song.content || "Barnvisa",
   };
 }
 
-export default async function Page({ params }: Props) {
-  const song = await getSongData(params.id);
+export default async function Page({
+  params,
+}: {
+  params: Promise<{ id: string }>;
+}) {
+  const song = await getSongData((await params).id);
 
   return (
     <>
