@@ -1,6 +1,7 @@
 import { getAllSongs } from "@/lib/md";
 import type { Metadata } from "next";
 import Link from "next/link";
+import { LayoutGrid, Rows3 } from "lucide-react";
 
 const metadata: Metadata = {
   title: "Barnvisor - Samling av barnvisor",
@@ -19,8 +20,20 @@ export default function Home() {
         <p className="mb-12 text-muted-foreground">
           En samling av populära barnvisor med sångtexter.
         </p>
-        <h2 className="mb-4 text-sm text-muted-foreground">Sångtexter</h2>
-        <ul className="divide-y">
+
+        <div className="mb-4 flex justify-between gap-4">
+          <h2 className="text-sm text-muted-foreground">Sångtexter</h2>
+          <div className="flex gap-2">
+            <button>
+              <LayoutGrid className="h-5 w-5" />
+            </button>
+            <button>
+              <Rows3 className="h-5 w-5" />
+            </button>
+          </div>
+        </div>
+
+        <ul className="grid grid-cols-3 gap-4">
           {songs
             .sort((a, b) => {
               if (a.title < b.title) {
@@ -33,11 +46,11 @@ export default function Home() {
             })
             .map((song) => (
               <li key={song.id}>
-                <Link href={`/${song.id}`} className="group block py-2">
+                <Link href={`/${song.id}`} className="group block">
                   <span className="block underline decoration-muted-foreground/50 underline-offset-4 transition-colors group-hover:decoration-foreground">
                     {song.title}
                   </span>
-                  <span className="block text-muted-foreground">
+                  <span className="line-clamp-1 text-muted-foreground">
                     {song.author}
                   </span>
                 </Link>

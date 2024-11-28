@@ -15,7 +15,7 @@ export const Footer = ({
       {...props}
     >
       <div className="col-start-2 col-end-5">
-        <Heart className="inline-block h-4 w-4 fill-red-600 stroke-none" />
+        <Heart className="inline-block h-5 w-5 fill-red-600 stroke-none" />
         <ul>
           <li>
             <a
