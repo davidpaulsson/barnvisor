@@ -1,4 +1,3 @@
-import { Card, CardHeader, CardTitle } from "@/components/ui/card";
 import { getAllSongs } from "@/lib/md";
 import type { Metadata } from "next";
 import Link from "next/link";
@@ -14,26 +13,39 @@ export default function Home() {
   const songs = getAllSongs();
 
   return (
-    <div className="container py-8">
-      <div className="flex flex-col items-start gap-4 md:gap-8">
-        <div className="grid">
-          <h1>Barnvisor</h1>
-          <p className="text-muted-foreground">
-            En samling av populära barnvisor
-          </p>
-        </div>
-        <div className="grid w-full grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
-          {songs.map((song) => (
-            <Card key={song.id} className="transition-colors hover:bg-muted/50">
-              <Link href={`/${song.id}`}>
-                <CardHeader>
-                  <CardTitle>{song.title}</CardTitle>
-                </CardHeader>
-              </Link>
-            </Card>
-          ))}
-        </div>
+    <>
+      <div className="col-start-2 col-end-5 [&_p:not(:last-child)]:mb-6 [&_p]:text-pretty">
+        <h1 className="mb-1 font-medium">Barnvisor</h1>
+        <p className="mb-12 text-muted-foreground">
+          En samling av populära barnvisor med sångtexter.
+        </p>
+        <h2 className="mb-4 text-sm text-muted-foreground">Sångtexter</h2>
+        <ul className="divide-y">
+          {songs
+            .sort((a, b) => {
+              if (a.title < b.title) {
+                return -1;
+              }
+              if (a.title > b.title) {
+                return 1;
+              }
+              return 0;
+            })
+            .map((song) => (
+              <li key={song.id}>
+                <Link href={`/${song.id}`} className="group block py-2">
+                  <span className="block underline decoration-muted-foreground/50 underline-offset-4 transition-colors group-hover:decoration-foreground">
+                    {song.title}
+                  </span>
+                  <span className="block text-muted-foreground">
+                    {song.author}
+                  </span>
+                </Link>
+              </li>
+            ))}
+        </ul>
       </div>
-    </div>
+      <div />
+    </>
   );
 }

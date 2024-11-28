@@ -1,5 +1,4 @@
 import { Heart } from "lucide-react";
-import { Separator } from "./ui/separator";
 import { cn } from "@/lib/utils";
 import type { HTMLAttributes } from "react";
 
@@ -9,20 +8,41 @@ export const Footer = ({
 }: HTMLAttributes<HTMLDivElement>) => {
   return (
     <footer
-      className={cn("prose text-sm text-muted-foreground", className)}
+      className={cn(
+        "mb-12 mt-24 text-sm text-muted-foreground/75 md:grid md:grid-cols-5 md:gap-4",
+        className,
+      )}
       {...props}
     >
-      <Separator className="my-4" />
-      <p>
-        Skapad med{" "}
-        <Heart className="inline-block h-4 w-4 fill-red-600 stroke-none" /> av{" "}
-        <a
-          className="text-muted-foreground no-underline transition-colors hover:text-foreground"
-          href="https://davidpaulsson.se"
-        >
-          David Paulsson
-        </a>
-      </p>
+      <div className="col-start-2 col-end-5">
+        <Heart className="inline-block h-4 w-4 fill-red-600 stroke-none" />
+        <ul>
+          <li>
+            <a
+              href="https://davidpaulsson.se"
+              className="no-underline transition-colors hover:text-foreground"
+            >
+              davidpaulsson.se
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://twitter.com/davidpaulsson"
+              className="no-underline transition-colors hover:text-foreground"
+            >
+              twitter.com/davidpaulsson
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://bsky.app/profile/davidpaulsson.se"
+              className="no-underline transition-colors hover:text-foreground"
+            >
+              bsky.app/profile/davidpaulsson.se
+            </a>
+          </li>
+        </ul>
+      </div>
     </footer>
   );
 };
