@@ -5,7 +5,7 @@ import { ViewToggle } from "@/components/view-toggle";
 import { SongsList } from "@/components/songs-list";
 
 const metadata: Metadata = {
-  title: "Barnvisor - Samling av barnvisor",
+  title: "Barnvisor",
   description: "Populära barnvisor med sångtexter.",
 };
 
