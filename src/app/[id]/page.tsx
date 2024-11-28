@@ -23,20 +23,18 @@ export default async function Page({ params }: Props) {
 
   return (
     <>
-      <h1 className="py-8 text-8xl font-bold tracking-tight">{song.title}</h1>
-
-      <div className="grid grid-cols-4 gap-4">
-        <p className="mt-0 text-muted-foreground">{song.author}</p>
-
-        <article className="prose col-span-1 col-start-2 max-w-none dark:prose-invert">
-          <div
-            className="prose prose-zinc dark:prose-invert [&_p]:text-pretty"
-            dangerouslySetInnerHTML={{
-              __html: song.content,
-            }}
-          />
-        </article>
-      </div>
+      <div />
+      <article className="[&_p]:text-pretty">
+        <h1>{song.title}</h1>
+        <p className="text-muted-foreground">{song.author}</p>
+        <div
+          className="text-muted-foreground"
+          dangerouslySetInnerHTML={{
+            __html: song.content,
+          }}
+        />
+      </article>
+      <div />
     </>
   );
 }

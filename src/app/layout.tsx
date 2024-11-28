@@ -1,21 +1,8 @@
 import type { Metadata } from "next";
-import localFont from "next/font/local";
 import "./globals.css";
 import { Footer } from "@/components/footer";
 import { ThemeProvider } from "@/components/theme-provider";
 import { Header } from "@/components/header";
-
-const geistSans = localFont({
-  src: "./fonts/GeistVF.woff",
-  variable: "--font-geist-sans",
-  weight: "100 900",
-});
-
-const geistMono = localFont({
-  src: "./fonts/GeistMonoVF.woff",
-  variable: "--font-geist-mono",
-  weight: "100 900",
-});
 
 const metadata: Metadata = {
   title: "Barnvisor",
@@ -31,18 +18,20 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
+      <body className="antialiased">
         <ThemeProvider
           attribute="class"
           defaultTheme="system"
           enableSystem
           disableTransitionOnChange
         >
-          <Header />
-          <main>{children}</main>
-          <Footer />
+          <div className="m-auto mx-auto grid max-w-screen-lg grid-cols-[192px_1fr_192px] gap-4 text-lg">
+            <Header className="col-span-full" />
+            <main className="col-span-full grid grid-cols-subgrid">
+              {children}
+            </main>
+            <Footer className="col-span-full" />
+          </div>
         </ThemeProvider>
       </body>
     </html>
