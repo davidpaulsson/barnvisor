@@ -6,7 +6,7 @@ import html from "remark-html";
 
 const songsDirectory = path.join(process.cwd(), "content/songs");
 
-type Song = {
+export type Song = {
   id: string;
   title: string;
   author: string;
