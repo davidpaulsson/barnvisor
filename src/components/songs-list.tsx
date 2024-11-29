@@ -15,7 +15,7 @@ export function SongsList({ songs }: SongsListProps) {
   return (
     <ul
       className={cn("gap-4", {
-        "grid grid-cols-3": layout === "grid",
+        "grid grid-cols-2 md:grid-cols-3": layout === "grid",
         "divide-y": layout === "rows",
       })}
     >
@@ -31,7 +31,7 @@ export function SongsList({ songs }: SongsListProps) {
             className={cn({ "py-2 first:pt-0": layout === "rows" })}
           >
             <Link href={`/${song.id}`} className="group block">
-              <span className="block underline decoration-muted-foreground/50 underline-offset-4 transition-colors group-hover:decoration-foreground">
+              <span className="line-clamp-1 underline decoration-muted-foreground/50 underline-offset-4 transition-colors group-hover:decoration-foreground">
                 {song.title}
               </span>
               <span className="line-clamp-1 text-muted-foreground">

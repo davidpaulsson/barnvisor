@@ -6,7 +6,7 @@ import { SongsList } from "@/components/songs-list";
 
 const metadata: Metadata = {
   title: "Barnvisor",
-  description: "Populära barnvisor med sångtexter.",
+  description: "Sångtexter till svenska barn-/vaggvisor",
 };
 
 export { metadata };
@@ -19,7 +19,7 @@ export default function Home() {
       <div className="col-start-2 col-end-5">
         <h1 className="mb-1 font-medium">Barnvisor</h1>
         <p className="mb-12 text-muted-foreground">
-          Populära barnvisor med sångtexter.
+          Sångtexter till svenska barn-/vaggvisor
         </p>
 
         <div className="mb-4 flex gap-4">
