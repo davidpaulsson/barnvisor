@@ -8,9 +8,24 @@ export async function generateMetadata({
   params: Promise<{ id: string }>;
 }): Promise<Metadata> {
   const song = await getSongData((await params).id);
+  const ogDescription =
+    song.content && song.content.length > 260
+      ? song.content.slice(0, 260) + "…"
+      : song.content || null;
+
   return {
     title: `${song.title} | Barnvisor`,
     description: song.content || "Barnvisa",
+    openGraph: {
+      images: [
+        {
+          url: `http://localhost:3000/api/og?title=${song.title}${ogDescription ? `&description=${ogDescription}` : ""}`,
+          width: 1200,
+          height: 630,
+          alt: ogDescription || "",
+        },
+      ],
+    },
   };
 }
 

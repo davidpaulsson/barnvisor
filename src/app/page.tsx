@@ -7,6 +7,16 @@ import { SongsList } from "@/components/songs-list";
 const metadata: Metadata = {
   title: "Barnvisor",
   description: "Sångtexter till svenska barn-/vaggvisor",
+  openGraph: {
+    images: [
+      {
+        url: "http://localhost:3000/api/og?title=Barnvisor&description=Sångtexter till svenska barn-/vaggvisor",
+        width: 1200,
+        height: 630,
+        alt: "Sångtexter till svenska barn-/vaggvisor",
+      },
+    ],
+  },
 };
 
 export { metadata };
