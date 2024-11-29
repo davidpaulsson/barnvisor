@@ -20,7 +20,7 @@ export async function generateMetadata({
     openGraph: {
       images: [
         {
-          url: `http://localhost:3000/api/og?title=${song.title}${ogDescription ? `&description=${ogDescription}` : ""}`,
+          url: `https://barnvisor.davidpaulsson.se/api/og?title=${song.title}${ogDescription ? `&description=${ogDescription}` : ""}`,
           width: 1200,
           height: 630,
           alt: ogDescription || "",

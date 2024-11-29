@@ -10,7 +10,7 @@ const metadata: Metadata = {
   openGraph: {
     images: [
       {
-        url: "http://localhost:3000/api/og?title=Barnvisor&description=Sångtexter till svenska barn-/vaggvisor",
+        url: "https://barnvisor.davidpaulsson.se/api/og?title=Barnvisor&description=Sångtexter till svenska barn-/vaggvisor",
         width: 1200,
         height: 630,
         alt: "Sångtexter till svenska barn-/vaggvisor",
