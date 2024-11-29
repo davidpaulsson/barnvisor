@@ -1,6 +1,7 @@
 import { IndexLink } from "@/components/index-link";
 import { getSongData } from "@/lib/md";
 import type { Metadata } from "next";
+import { Suspense } from "react";
 
 export async function generateMetadata({
   params,
@@ -38,7 +39,9 @@ export default async function Page({
 
   return (
     <>
-      <IndexLink />
+      <Suspense>
+        <IndexLink />
+      </Suspense>
 
       <article className="col-span-3 [&_p:not(:last-child)]:mb-6 [&_p]:text-pretty">
         <h1 className="mb-1 font-medium">{song.title}</h1>
