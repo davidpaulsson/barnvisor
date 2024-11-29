@@ -2,10 +2,13 @@
 
 import { cn } from "@/lib/utils";
 import { LayoutGrid, Rows3 } from "lucide-react";
-import { useLayoutStore } from "@/store";
+import { useQueryState } from "nuqs";
 
 export const ViewToggle = () => {
-  const { layout, setLayout } = useLayoutStore();
+  const [layout, setLayout] = useQueryState("layout", {
+    defaultValue: "grid",
+    parse: (value): "grid" | "rows" => (value === "rows" ? "rows" : "grid"),
+  });
 
   return (
     <div className="flex gap-2">

@@ -3,19 +3,22 @@
 import Link from "next/link";
 import { Song } from "@/lib/md";
 import { cn } from "@/lib/utils";
-import { useLayoutStore } from "@/store";
+import { useQueryState } from "nuqs";
 
 interface SongsListProps {
   songs: Song[];
 }
 
 export function SongsList({ songs }: SongsListProps) {
-  const { layout } = useLayoutStore();
+  const [layout] = useQueryState("layout", {
+    defaultValue: "grid",
+    parse: (value): "grid" | "rows" => (value === "rows" ? "rows" : "grid"),
+  });
 
   return (
     <ul
       className={cn("gap-4", {
-        "grid grid-cols-2 md:grid-cols-3": layout === "grid",
+        "grid grid-cols-2": layout === "grid",
         "divide-y": layout === "rows",
       })}
     >
@@ -34,7 +37,7 @@ export function SongsList({ songs }: SongsListProps) {
               <span className="line-clamp-1 underline decoration-muted-foreground/50 underline-offset-4 transition-colors group-hover:decoration-foreground">
                 {song.title}
               </span>
-              <span className="line-clamp-1 text-muted-foreground">
+              <span className="line-clamp-1 text-sm text-muted-foreground">
                 {song.author}
               </span>
             </Link>
