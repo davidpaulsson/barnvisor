@@ -4,6 +4,9 @@ import type { Metadata } from "next";
 import { ViewToggle } from "@/components/view-toggle";
 import { SongsList } from "@/components/songs-list";
 
+export const dynamic = "force-static";
+export const revalidate = false;
+
 const metadata: Metadata = {
   title: "Barnvisor",
   description: "Sångtexter till svenska barn-/vaggvisor",
@@ -21,8 +24,8 @@ const metadata: Metadata = {
 
 export { metadata };
 
-export default function Home() {
-  const songs = getAllSongs();
+export default async function Home() {
+  const songs = await getAllSongs();
 
   return (
     <>
@@ -33,7 +36,8 @@ export default function Home() {
         </p>
 
         <div className="mb-4 flex gap-4">
-          <ViewToggle /> {/* Use the new component */}
+          <ViewToggle />
+
           <h2 className="text-sm text-muted-foreground">Sångtexter</h2>
         </div>
 

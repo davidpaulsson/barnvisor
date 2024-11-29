@@ -3,7 +3,7 @@ import { getAllSongs, getSongData } from "@/lib/md";
 import type { Metadata } from "next";
 
 export async function generateStaticParams() {
-  const songs = getAllSongs();
+  const songs = await getAllSongs();
   return songs.map((song) => ({
     id: song.id,
   }));

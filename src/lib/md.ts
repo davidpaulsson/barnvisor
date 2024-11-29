@@ -13,21 +13,23 @@ export type Song = {
   content: string;
 };
 
-export function getAllSongs() {
-  const fileNames = fs.readdirSync(songsDirectory);
+export async function getAllSongs() {
+  const fileNames = await fs.promises.readdir(songsDirectory);
 
-  return fileNames.map((fileName) => {
-    const id = fileName.replace(/\.md$/, "");
-    const fullPath = path.join(songsDirectory, fileName);
-    const fileContents = fs.readFileSync(fullPath, "utf8");
-    const { data, content } = matter(fileContents);
+  return Promise.all(
+    fileNames.map(async (fileName) => {
+      const id = fileName.replace(/\.md$/, "");
+      const fullPath = path.join(songsDirectory, fileName);
+      const fileContents = await fs.promises.readFile(fullPath, "utf8");
+      const { data, content } = matter(fileContents);
 
-    return {
-      id,
-      content,
-      ...data,
-    } as Song;
-  });
+      return {
+        id,
+        content,
+        ...data,
+      } as Song;
+    }),
+  );
 }
 
 export async function getSongData(id: string) {
