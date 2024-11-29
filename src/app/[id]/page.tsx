@@ -1,6 +1,13 @@
 import { IndexLink } from "@/components/index-link";
-import { getSongData } from "@/lib/md";
+import { getAllSongs, getSongData } from "@/lib/md";
 import type { Metadata } from "next";
+
+export async function generateStaticParams() {
+  const songs = getAllSongs();
+  return songs.map((song) => ({
+    id: song.id,
+  }));
+}
 
 export async function generateMetadata({
   params,
