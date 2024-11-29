@@ -1,8 +1,6 @@
 import { IndexLink } from "@/components/index-link";
 import { getSongData } from "@/lib/md";
-import { Undo2 } from "lucide-react";
 import type { Metadata } from "next";
-import Link from "next/link";
 
 export async function generateMetadata({
   params,
