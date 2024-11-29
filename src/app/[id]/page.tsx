@@ -29,7 +29,7 @@ export default async function Page({
 
       <article className="col-span-3 [&_p:not(:last-child)]:mb-6 [&_p]:text-pretty">
         <h1 className="mb-1 font-medium">{song.title}</h1>
-        <p className="mb-12 text-sm text-muted-foreground">{song.author}</p>
+        <p className="!mb-12 text-sm text-muted-foreground">{song.author}</p>
         <div
           className="text-muted-foreground"
           dangerouslySetInnerHTML={{
