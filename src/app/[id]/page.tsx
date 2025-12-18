@@ -9,27 +9,38 @@ export async function generateStaticParams() {
   }));
 }
 
+function truncateText(text: string, length = 150) {
+  if (text.length <= length) return text;
+  return text.slice(0, length).replace(/\s+\S*$/, "") + "…";
+}
+
 export async function generateMetadata({
   params,
 }: {
   params: Promise<{ id: string }>;
 }): Promise<Metadata> {
   const song = await getSongData((await params).id);
-  const ogDescription =
-    song.content && song.content.length > 260
-      ? song.content.slice(0, 260) + "…"
-      : song.content || null;
+  const canonicalUrl = `https://www.barnvistexter.se/${song.id}`;
+  const cleanDescription = song.content
+    ? truncateText(song.content.replace(/\n/g, " "))
+    : `Text till barnvisa "${song.title}"`;
 
   return {
-    title: `${song.title} | Barnvisor`,
-    description: song.content || "Barnvisa",
+    title: `${song.title} - Text till barnvisa | Barnvistexter.se`,
+    description: cleanDescription,
+    alternates: {
+      canonical: canonicalUrl,
+    },
     openGraph: {
+      url: canonicalUrl,
       images: [
         {
-          url: `https://barnvisor.davidpaulsson.se/api/og?title=${song.title}${ogDescription ? `&description=${ogDescription}` : ""}`,
+          url: `https://www.barnvistexter.se/api/og?title=${encodeURIComponent(
+            song.title,
+          )}&description=${encodeURIComponent(cleanDescription)}`,
           width: 1200,
           height: 630,
-          alt: ogDescription || "",
+          alt: cleanDescription.slice(0, 100),
         },
       ],
     },

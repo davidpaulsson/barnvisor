@@ -8,7 +8,7 @@ export const dynamic = "force-static";
 export const revalidate = false;
 
 const metadata: Metadata = {
-  title: "Barnvistexter.se | texter till svenska barnvisor och vaggvisor",
+  title: "Barnvistexter.se - texter till svenska barnvisor och vaggvisor",
   description:
     "Här hittar du texter till klassiska och nya svenska barnvisor och vaggvisor. Perfekt för föräldrar, pedagoger och barn i alla åldrar.",
   openGraph: {
