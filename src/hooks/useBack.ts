@@ -18,8 +18,6 @@ const useBack = () => {
     }
   }, [canGoBack]);
 
-  debugger;
-
   return { canGoBack, back };
 };
 

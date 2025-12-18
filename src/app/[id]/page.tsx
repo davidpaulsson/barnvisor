@@ -1,5 +1,6 @@
 import { IndexLink } from "@/components/index-link";
 import { getAllSongs, getSongData } from "@/lib/md";
+import Link from "next/link";
 import type { Metadata } from "next";
 
 export async function generateStaticParams() {
@@ -32,6 +33,9 @@ export async function generateMetadata({
       canonical: canonicalUrl,
     },
     openGraph: {
+      type: "music.song",
+      title: `${song.title} – Text till barnvisa | Barnvistexter.se`,
+      description: cleanDescription,
       url: canonicalUrl,
       images: [
         {
@@ -44,6 +48,14 @@ export async function generateMetadata({
         },
       ],
     },
+    twitter: {
+      card: "summary_large_image",
+      title: `${song.title} – Text till barnvisa | Barnvistexter.se`,
+      description: cleanDescription,
+      images: [
+        `https://www.barnvistexter.se/api/og?title=${encodeURIComponent(song.title)}&description=${encodeURIComponent(cleanDescription)}`,
+      ],
+    },
   };
 }
 
@@ -53,6 +65,12 @@ export default async function Page({
   params: Promise<{ id: string }>;
 }) {
   const song = await getSongData((await params).id);
+  const allSongs = await getAllSongs();
+  const relatedCandidates = allSongs.filter((s) => s.id !== song.id);
+  const sameAuthor = relatedCandidates.filter((s) => s.author === song.author);
+  const related = (sameAuthor.length ? sameAuthor : relatedCandidates)
+    .sort((a, b) => a.title.localeCompare(b.title))
+    .slice(0, 4);
   const lyricsText = song.content
     .replace(/<[^>]+>/g, " ")
     .replace(/\s+/g, " ")
@@ -75,6 +93,25 @@ export default async function Page({
     },
   } as const;
 
+  const breadcrumbData = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Barnvisor",
+        item: "https://www.barnvistexter.se/",
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: song.title,
+        item: canonicalUrl,
+      },
+    ],
+  } as const;
+
   return (
     <>
       <IndexLink />
@@ -86,12 +123,38 @@ export default async function Page({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
         />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbData) }}
+        />
         <div
           className="text-muted-foreground"
           dangerouslySetInnerHTML={{
             __html: song.content,
           }}
         />
+        {related.length > 0 ? (
+          <section className="mt-10 border-t pt-6">
+            <h2 className="mb-12 font-medium">Relaterade visor</h2>
+            <ul className="space-y-2">
+              {related.map((item) => (
+                <li key={item.id}>
+                  <Link
+                    href={`/${item.id}`}
+                    className="group block transition-colors hover:text-foreground"
+                  >
+                    <span className="block text-sm font-medium group-hover:underline">
+                      {item.title}
+                    </span>
+                    <span className="text-xs text-muted-foreground">
+                      {item.author}
+                    </span>
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </section>
+        ) : null}
       </article>
       <div />
     </>
