@@ -2,6 +2,7 @@ import { IndexLink } from "@/components/index-link";
 import { getAllSongs, getSongData } from "@/lib/md";
 import Link from "next/link";
 import type { Metadata } from "next";
+import { SongsList } from "@/components/songs-list";
 
 export async function generateStaticParams() {
   const songs = await getAllSongs();
@@ -136,23 +137,7 @@ export default async function Page({
         {related.length > 0 ? (
           <section className="mt-10 border-t pt-6">
             <h2 className="mb-12 font-medium">Relaterade visor</h2>
-            <ul className="space-y-2">
-              {related.map((item) => (
-                <li key={item.id}>
-                  <Link
-                    href={`/${item.id}`}
-                    className="group block transition-colors hover:text-foreground"
-                  >
-                    <span className="block text-sm font-medium group-hover:underline">
-                      {item.title}
-                    </span>
-                    <span className="text-xs text-muted-foreground">
-                      {item.author}
-                    </span>
-                  </Link>
-                </li>
-              ))}
-            </ul>
+            <SongsList songs={related} layout="rows" />
           </section>
         ) : null}
       </article>

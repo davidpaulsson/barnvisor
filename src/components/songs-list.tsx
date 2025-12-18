@@ -7,13 +7,16 @@ import { useQueryState } from "nuqs";
 
 interface SongsListProps {
   songs: Song[];
+  layout?: "grid" | "rows";
 }
 
-export function SongsList({ songs }: SongsListProps) {
-  const [layout] = useQueryState("layout", {
+export function SongsList({ songs, layout: layoutProp }: SongsListProps) {
+  const [queryLayout] = useQueryState("layout", {
     defaultValue: "grid",
     parse: (value): "grid" | "rows" => (value === "rows" ? "rows" : "grid"),
   });
+
+  const layout = layoutProp ?? queryLayout;
 
   return (
     <ul
