@@ -14,6 +14,7 @@ export const ViewToggle = () => {
     <div className="flex gap-2">
       <button
         onClick={() => setLayout("grid")}
+        aria-label="Visa i rutnät"
         className={cn("transition-colors", {
           "text-muted-foreground": layout === "rows",
         })}
@@ -22,6 +23,7 @@ export const ViewToggle = () => {
       </button>
       <button
         onClick={() => setLayout("rows")}
+        aria-label="Visa i lista"
         className={cn("transition-colors", {
           "text-muted-foreground": layout === "grid",
         })}
