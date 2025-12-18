@@ -1,6 +1,6 @@
 ---
 title: "Alla ska sova för nu är det natt"
-author: "Astrid Lindgren
+author: "Astrid Lindgren"
 ---
 
 Nu lilla humla,\

@@ -1,6 +1,6 @@
 ---
 title: "Tänk om du var jag och jag var du"
-author: "Lena Sjöberg
+author: "Lena Sjöberg"
 Komposition: Martin Östergren"
 ---
 

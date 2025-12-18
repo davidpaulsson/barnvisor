@@ -1,6 +1,6 @@
 ---
 title: "Vi har en tulta med ögon blå"
-author: "Ingela “Pling” Forsman och Hans Matthison-Hansen
+author: "Ingela “Pling” Forsman och Hans Matthison-Hansen"
 ---
 
 Vi har en tulta med ögon blå\

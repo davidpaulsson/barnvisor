@@ -1,6 +1,6 @@
 ---
 title: "När mamma var liten"
-author: "Astrid Lindgren
+author: "Astrid Lindgren"
 ---
 
 När mamma var liten, då var hon så rar\

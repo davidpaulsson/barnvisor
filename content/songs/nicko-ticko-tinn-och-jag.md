@@ -1,6 +1,6 @@
 ---
 title: "Nicko Ticko Tinn och jag"
-author: "Lennart Hellsing
+author: "Lennart Hellsing"
 ---
 
 Och Nicko Ticko Tinn och jag,\

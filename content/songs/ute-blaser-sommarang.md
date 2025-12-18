@@ -1,6 +1,6 @@
 ---
 title: "Ute blåser sommarvind"
-author: "Samuel Johan Hedborn
+author: "Samuel Johan Hedborn"
 ---
 
 Ute blåser sommarvind,\

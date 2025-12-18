@@ -1,6 +1,6 @@
 ---
 title: "Sov alla"
-author: "Astrid Lindgren
+author: "Astrid Lindgren"
 ---
 
 Sov alla, sov alla vågor på vida havet nu.\

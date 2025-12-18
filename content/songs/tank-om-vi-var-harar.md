@@ -1,6 +1,6 @@
 ---
 title: "Tänk om vi var harar"
-author: "Lena Sjöberg
+author: "Lena Sjöberg"
 Komposition: Martin Östergren"
 ---
 
