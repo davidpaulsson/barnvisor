@@ -1,6 +1,6 @@
 ---
 title: "Vargsången"
-author: "Astrid Lindgren, musik: Björn Isfält"
+author: "Astrid Lindgren
 ---
 
 Vargen ylar i nattens skog,\

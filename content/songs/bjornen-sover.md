@@ -1,6 +1,6 @@
 ---
 title: "Björnen sover"
-author: "kanske Carl Michael Bellman, text: kanske Anne-Marie och Bengt Olov Engström"
+author: "kanske Carl Michael Bellman
 ---
 
 Björnen sover, björnen sover\

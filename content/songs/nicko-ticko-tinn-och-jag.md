@@ -1,6 +1,6 @@
 ---
 title: "Nicko Ticko Tinn och jag"
-author: "Lennart Hellsing, musik: Knut Brodin"
+author: "Lennart Hellsing
 ---
 
 Och Nicko Ticko Tinn och jag,\

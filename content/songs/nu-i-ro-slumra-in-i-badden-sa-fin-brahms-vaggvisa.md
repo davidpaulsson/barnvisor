@@ -1,6 +1,6 @@
 ---
 title: "Nu i ro slumra in i bädden så fin (Brahms vaggvisa)"
-author: "Alice Tegnér, musik: Johannes Brahms"
+author: "Alice Tegnér
 ---
 
 Nu i ro, slumra in,\

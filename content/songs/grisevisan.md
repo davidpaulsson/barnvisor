@@ -1,6 +1,6 @@
 ---
 title: "Grisevisan (Ibland går jag runt och trallar)"
-author: "Astrid Lindgren, musik: Georg Riedel"
+author: "Astrid Lindgren
 ---
 
 Ibland går jag runt och trallar\

@@ -1,6 +1,6 @@
 ---
 title: "Videvisan"
-author: "Zacharias Topelius, musik: Alice Tegnér"
+author: "Zacharias Topelius
 ---
 
 Sov du lilla vide ung,\

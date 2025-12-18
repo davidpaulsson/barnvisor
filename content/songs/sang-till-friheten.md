@@ -1,6 +1,6 @@
 ---
 title: "Sång till friheten"
-author: "Björn Afzelius, musik: Silvio Rodriguez"
+author: "Björn Afzelius
 ---
 
 Du är det finaste jag vet.\

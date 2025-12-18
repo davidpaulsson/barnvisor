@@ -1,6 +1,6 @@
 ---
 title: "Ute blåser sommarvind"
-author: "Samuel Johan Hedborn, musik: Alice Tegnér"
+author: "Samuel Johan Hedborn
 ---
 
 Ute blåser sommarvind,\
