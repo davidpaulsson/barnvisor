@@ -1,0 +1,40 @@
+---
+title: "Sov nu lillebror"
+author: "Hans Alfredson"
+---
+
+Sov nu lillebror\
+Jag ska vakta dig\
+Jag är redan rätt så stor\
+Det har farsan sagt till mig
+
+Sov nu lillebror\
+Morsan har gått ned till konsum\
+för att köpa lite mat\
+Men hon kommer snart tillbaks
+
+En gång tänkte jag\
+Att du var så dum\
+Och att jag får inte ha\
+Längre något eget rum
+
+Och då tänkte jag\
+Vilken äcklig liten brorsa,\
+han är jämt vid mammas bröst\
+Jag vill inte ha nån bror
+
+Men nu tycker jag\
+Att du är okej\
+När du skrattar blir jag glad\
+Jag ska vara snäll mot dig och,
+
+Vet du, lillebror?\
+När du sen blir lite större\
+och nån grabb är dum mot dig\
+Ropa då på storebror
+
+Sov nu lillebror\
+Mamma kommer snart tillbaks\
+Till dig
+
+Vojne
