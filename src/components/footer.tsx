@@ -10,9 +10,9 @@ const SOCIAL_LINKS = [
     text: "davidpaulsson.se",
   },
   {
-    href: "https://twitter.com/davidpaulsson",
+    href: "https://x.com/davidpaulsson",
     label: "Twitter profile",
-    text: "twitter.com/davidpaulsson",
+    text: "x.com/davidpaulsson",
   },
   {
     href: "https://bsky.app/profile/davidpaulsson.se",
