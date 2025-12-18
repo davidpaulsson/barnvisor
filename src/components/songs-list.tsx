@@ -10,14 +10,13 @@ interface SongsListProps {
   layout?: "grid" | "rows";
 }
 
-export function SongsList({ songs, layout: layoutProp }: SongsListProps) {
-  const [queryLayout] = useQueryState("layout", {
-    defaultValue: "grid",
-    parse: (value): "grid" | "rows" => (value === "rows" ? "rows" : "grid"),
-  });
-
-  const layout = layoutProp ?? queryLayout;
-
+function SongsListContent({
+  songs,
+  layout,
+}: {
+  songs: Song[];
+  layout: "grid" | "rows";
+}) {
   return (
     <ul
       className={cn("gap-4", {
@@ -42,4 +41,21 @@ export function SongsList({ songs, layout: layoutProp }: SongsListProps) {
       ))}
     </ul>
   );
+}
+
+function SongsListWithQuery({ songs }: { songs: Song[] }) {
+  const [queryLayout] = useQueryState("layout", {
+    defaultValue: "grid",
+    parse: (value): "grid" | "rows" => (value === "rows" ? "rows" : "grid"),
+  });
+
+  return <SongsListContent songs={songs} layout={queryLayout} />;
+}
+
+export function SongsList({ songs, layout: layoutProp }: SongsListProps) {
+  if (layoutProp) {
+    return <SongsListContent songs={songs} layout={layoutProp} />;
+  }
+
+  return <SongsListWithQuery songs={songs} />;
 }
