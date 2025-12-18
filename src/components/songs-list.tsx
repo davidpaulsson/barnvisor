@@ -45,11 +45,11 @@ function SongsListContent({
 
 function SongsListWithQuery({ songs }: { songs: Song[] }) {
   const [queryLayout] = useQueryState("layout", {
-    defaultValue: "grid",
+    defaultValue: "grid" as const,
     parse: (value): "grid" | "rows" => (value === "rows" ? "rows" : "grid"),
   });
 
-  return <SongsListContent songs={songs} layout={queryLayout} />;
+  return <SongsListContent songs={songs} layout={queryLayout as "grid" | "rows"} />;
 }
 
 export function SongsList({ songs, layout: layoutProp }: SongsListProps) {
