@@ -1,12 +1,11 @@
-"use client";
-
 import Link from "next/link";
-import { Song } from "@/lib/md";
+import type { Song } from "@/lib/md";
 import { cn } from "@/lib/utils";
-import { useQueryState } from "nuqs";
+
+export type SongListItem = Pick<Song, "id" | "title" | "author">;
 
 interface SongsListProps {
-  songs: Song[];
+  songs: SongListItem[];
   layout?: "grid" | "rows";
 }
 
@@ -14,20 +13,23 @@ function SongsListContent({
   songs,
   layout,
 }: {
-  songs: Song[];
+  songs: SongListItem[];
   layout: "grid" | "rows";
 }) {
   return (
     <ul
       className={cn("gap-4", {
-        "grid grid-cols-2": layout === "grid",
+        "divide-y md:grid md:grid-cols-2 md:divide-y-0": layout === "grid",
         "divide-y": layout === "rows",
       })}
     >
       {songs.map((song) => (
         <li
           key={song.id}
-          className={cn({ "py-2 first:pt-0": layout === "rows" })}
+          className={cn({
+            "py-2 first:pt-0": layout === "rows",
+            "py-3 first:pt-0 md:py-0": layout === "grid",
+          })}
         >
           <Link href={`/${song.id}`} className="group block">
             <span className="line-clamp-1 underline decoration-muted-foreground/50 underline-offset-4 transition-colors group-hover:decoration-foreground">
@@ -43,19 +45,6 @@ function SongsListContent({
   );
 }
 
-function SongsListWithQuery({ songs }: { songs: Song[] }) {
-  const [queryLayout] = useQueryState("layout", {
-    defaultValue: "grid" as const,
-    parse: (value): "grid" | "rows" => (value === "rows" ? "rows" : "grid"),
-  });
-
-  return <SongsListContent songs={songs} layout={queryLayout as "grid" | "rows"} />;
-}
-
-export function SongsList({ songs, layout: layoutProp }: SongsListProps) {
-  if (layoutProp) {
-    return <SongsListContent songs={songs} layout={layoutProp} />;
-  }
-
-  return <SongsListWithQuery songs={songs} />;
+export function SongsList({ songs, layout = "grid" }: SongsListProps) {
+  return <SongsListContent songs={songs} layout={layout} />;
 }

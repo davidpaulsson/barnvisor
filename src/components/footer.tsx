@@ -2,6 +2,17 @@ import { Heart } from "lucide-react";
 import { cn } from "@/lib/utils";
 import type { HTMLAttributes } from "react";
 import { ModeToggle } from "./mode-toggle";
+import Link from "next/link";
+
+const COLLECTION_LINKS = [
+  { href: "/barnvisor", text: "Barnvisor" },
+  { href: "/vaggvisor", text: "Vaggvisor" },
+  { href: "/godnattsanger", text: "Godnattsånger" },
+  { href: "/sanglekar", text: "Sånglekar" },
+  { href: "/ramsor", text: "Ramsor" },
+  { href: "/midsommarvisor", text: "Midsommarvisor" },
+  { href: "/julsanger", text: "Julsånger" },
+] as const;
 
 const SOCIAL_LINKS = [
   {
@@ -52,6 +63,18 @@ export const Footer = ({
     >
       <div className="col-start-2 col-end-5 space-y-4">
         <ModeToggle />
+
+        <nav aria-label="Samlingar">
+          <ul className="flex flex-wrap gap-x-4 gap-y-1">
+            {COLLECTION_LINKS.map((link) => (
+              <li key={link.href}>
+                <Link href={link.href} className="hover:text-foreground">
+                  {link.text}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </nav>
 
         <nav aria-label="Social links">
           <ul>
