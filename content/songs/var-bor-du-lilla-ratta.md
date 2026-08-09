@@ -1,6 +1,10 @@
 ---
 title: "Var bor du lilla råtta?"
 author: "Britt G Hallqvist"
+categories: ["barnvisa", "klassisk"]
+audiences: ["förskola"]
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Var bor du lilla råtta? I din hatt\

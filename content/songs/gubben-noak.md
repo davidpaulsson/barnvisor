@@ -1,6 +1,10 @@
 ---
 title: "Gubben Noak"
 author: "Carl Michael Bellman"
+categories: ["barnvisa", "klassisk"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Gubben Noak, gubben Noak,\

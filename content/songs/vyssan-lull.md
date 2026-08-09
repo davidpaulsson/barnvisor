@@ -1,6 +1,10 @@
 ---
 title: "Byssan lull (Vyssan lull)"
 author: "Evert Taube"
+categories: ["barnvisa", "vaggvisa", "klassisk"]
+audiences: ["bebis"]
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Byssan lull, koka kittelen full.\

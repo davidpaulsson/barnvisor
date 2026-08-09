@@ -1,6 +1,10 @@
 ---
 title: "Här kommer lilla Ludde"
 author: "Okänd"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Här kommer lilla Ludde\

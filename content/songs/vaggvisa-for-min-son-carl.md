@@ -1,6 +1,10 @@
 ---
 title: "Vaggvisa för min son Carl"
 author: "Carl Michael Bellman"
+categories: ["barnvisa", "vaggvisa", "klassisk"]
+audiences: ["bebis"]
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Lilla Carl, sov sött i frid!\

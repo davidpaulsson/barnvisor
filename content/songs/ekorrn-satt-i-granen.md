@@ -1,6 +1,10 @@
 ---
 title: "Ekorrn satt i granen"
 author: "Traditionell"
+categories: ["barnvisa", "klassisk"]
+audiences: ["förskola"]
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Ekorrn satt i granen,\

@@ -1,6 +1,10 @@
 ---
 title: "Majas alfabet C - Champinjon"
 author: "Okänd"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Här har jag letat i flera timmar,\

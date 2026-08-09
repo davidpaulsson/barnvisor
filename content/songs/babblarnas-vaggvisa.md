@@ -1,6 +1,10 @@
 ---
 title: "Babblarnas vaggvisa"
 author: "Anneli Helena Tisell, Hans Sjolander, Johan Rask"
+categories: ["barnvisa", "vaggvisa", "godnattsång"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Kom lilla du, kudden väntar nu,\

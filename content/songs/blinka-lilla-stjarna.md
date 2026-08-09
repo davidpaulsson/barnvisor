@@ -1,6 +1,11 @@
 ---
 title: "Blinka lilla stjärna"
 author: "Traditionell"
+categories: ["barnvisa", "vaggvisa", "godnattsång", "klassisk"]
+audiences: ["bebis"]
+aliases: ["Blinka lilla stjärna text"]
+featuredRank: 4
+rightsStatus: "legacy-unreviewed"
 ---
 
 Blinka, lilla stjärna där,\

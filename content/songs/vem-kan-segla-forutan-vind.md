@@ -1,6 +1,10 @@
 ---
 title: "Vem kan segla förutan vind?"
 author: "Traditionell"
+categories: ["barnvisa", "klassisk"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Vem kan segla förutan vind?\

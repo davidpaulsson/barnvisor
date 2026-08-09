@@ -1,6 +1,10 @@
 ---
 title: "Isidors visa"
 author: "Okänd"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Sov lille Isidor!\

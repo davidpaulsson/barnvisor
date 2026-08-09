@@ -1,6 +1,10 @@
 ---
 title: "Nyss så träffa jag en krokodil"
 author: "Monica Forsberg"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Nyss så träffa jag en krokodil\

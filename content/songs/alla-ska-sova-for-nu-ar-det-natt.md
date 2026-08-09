@@ -1,6 +1,10 @@
 ---
 title: "Alla ska sova för nu är det natt"
 author: "Astrid Lindgren"
+categories: ["barnvisa", "godnattsång"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Nu lilla humla,\

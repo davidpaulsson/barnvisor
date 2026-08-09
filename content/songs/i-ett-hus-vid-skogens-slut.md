@@ -1,6 +1,10 @@
 ---
 title: "I ett hus vid skogens slut"
 author: "Traditionell"
+categories: ["barnvisa", "klassisk", "sånglek"]
+audiences: ["förskola"]
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 I ett hus vid skogens slut\

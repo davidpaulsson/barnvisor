@@ -1,6 +1,10 @@
 ---
 title: "Grisevisan (Ibland går jag runt och trallar)"
 author: "Astrid Lindgren"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Ibland går jag runt och trallar\

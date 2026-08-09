@@ -1,6 +1,10 @@
 ---
 title: "Vart ska du gå, min lilla flicka"
 author: "Alice Tegnér"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Vart ska du gå, min lilla flicka?\

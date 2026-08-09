@@ -1,6 +1,10 @@
 ---
 title: "Sov lilla Totte"
 author: "Okänd"
+categories: ["barnvisa", "vaggvisa", "godnattsång"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Sov lilla Totte,\

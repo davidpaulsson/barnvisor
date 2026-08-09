@@ -1,6 +1,10 @@
 ---
 title: "Uti vår hage"
 author: "Traditionell"
+categories: ["barnvisa", "klassisk", "sommar", "midsommar"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Uti vår hage där växa blå bär.\

@@ -1,6 +1,10 @@
 ---
 title: "En sockerbagare"
 author: "Alice Tegnér"
+categories: ["barnvisa", "klassisk", "jul"]
+audiences: ["förskola"]
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 En sockerbagare här bor i staden,\

@@ -1,6 +1,10 @@
 ---
 title: "Nocturne"
 author: "Okänd"
+categories: ["barnvisa", "godnattsång"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Sov på min arm!\

@@ -1,6 +1,10 @@
 ---
 title: "Fem små apor"
 author: "Traditionell"
+categories: ["barnvisa", "klassisk", "sånglek"]
+audiences: ["förskola"]
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Fem små apor hoppade i sängen.\

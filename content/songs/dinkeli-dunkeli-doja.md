@@ -1,6 +1,10 @@
 ---
 title: "Dinkeli dunkeli doja"
 author: "Okänd"
+categories: ["barnvisa", "ramsa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Dinkeli dunkeli doja\

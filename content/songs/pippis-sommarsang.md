@@ -1,6 +1,10 @@
 ---
 title: "Pippis sommarsång"
 author: "Astrid Lindgren"
+categories: ["barnvisa", "sommar"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Och nu så vill jag sjunga\

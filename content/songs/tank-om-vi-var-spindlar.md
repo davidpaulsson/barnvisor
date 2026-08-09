@@ -1,6 +1,10 @@
 ---
 title: "Tänk om vi var spindlar"
 author: "Lena Sjöberg"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 Komposition: Martin Östergren"
 ---
 

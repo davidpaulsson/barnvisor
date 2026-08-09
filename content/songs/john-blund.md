@@ -1,6 +1,10 @@
 ---
 title: "John Blund"
 author: "Okänd"
+categories: ["barnvisa", "godnattsång"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Titta, kom och titta,\

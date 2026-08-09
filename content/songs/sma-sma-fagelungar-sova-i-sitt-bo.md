@@ -1,6 +1,10 @@
 ---
 title: "Små små fågelungar sova i sitt bo"
 author: "Okänd"
+categories: ["barnvisa", "godnattsång"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Små, små fågelungar\

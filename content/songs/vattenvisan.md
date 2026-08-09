@@ -1,6 +1,10 @@
 ---
 title: "Vattenvisan"
 author: "Okänd"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Vad är det som regnar på våra paraply\

@@ -1,6 +1,10 @@
 ---
 title: "Trollmors vaggvisa"
 author: "Margit Holmberg"
+categories: ["barnvisa", "vaggvisa", "klassisk"]
+audiences: ["bebis"]
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 När trollmor har lagt sina elva små troll,\

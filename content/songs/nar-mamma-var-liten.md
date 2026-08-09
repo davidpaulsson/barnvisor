@@ -1,6 +1,10 @@
 ---
 title: "När mamma var liten"
 author: "Astrid Lindgren"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 När mamma var liten, då var hon så rar\

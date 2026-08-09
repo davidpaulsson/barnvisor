@@ -1,6 +1,10 @@
 ---
 title: "Nicko Ticko Tinn och jag"
 author: "Lennart Hellsing"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Och Nicko Ticko Tinn och jag,\

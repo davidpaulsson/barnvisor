@@ -1,6 +1,10 @@
 ---
 title: "Mors lilla lathund"
 author: "Okänd"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Mors lilla lathund sa\

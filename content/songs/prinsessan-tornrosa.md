@@ -1,6 +1,10 @@
 ---
 title: "Prinsessan Törnrosa"
 author: "Okänd"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Törnrosa var ett vackert barn, vackert barn, vackert barn,\

@@ -1,6 +1,10 @@
 ---
 title: "Bom bom bom"
 author: "Okänd"
+categories: ["barnvisa", "ramsa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Bom, bom, bom, bom, låter stora trumman\

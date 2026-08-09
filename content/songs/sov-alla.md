@@ -1,6 +1,10 @@
 ---
 title: "Sov alla"
 author: "Astrid Lindgren"
+categories: ["barnvisa", "godnattsång"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Sov alla, sov alla vågor på vida havet nu.\

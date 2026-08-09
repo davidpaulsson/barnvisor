@@ -1,6 +1,10 @@
 ---
 title: "En kulen natt"
 author: "Anders Palm red., Johan Stenström red."
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 En kulen natt, natt, natt\

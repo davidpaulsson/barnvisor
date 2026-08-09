@@ -1,6 +1,10 @@
 ---
 title: "Bom sicka bom"
 author: "Okänd"
+categories: ["barnvisa", "ramsa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Tycker du som jag, så rider vi\

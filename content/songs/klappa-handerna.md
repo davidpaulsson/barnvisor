@@ -1,6 +1,10 @@
 ---
 title: "Klappa händerna"
 author: "Okänd"
+categories: ["barnvisa", "sånglek", "ramsa"]
+audiences: ["förskola"]
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Klappa händerna när du är riktigt glad\

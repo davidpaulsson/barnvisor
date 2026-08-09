@@ -1,6 +1,10 @@
 ---
 title: "Sov du lilla videung"
 author: "Zacharias Topelius"
+categories: ["barnvisa", "vaggvisa", "godnattsång", "klassisk"]
+audiences: ["bebis"]
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Sov, du lilla videung,\

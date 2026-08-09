@@ -1,6 +1,10 @@
 ---
 title: "En liten båt"
 author: "Lennart Hellsing"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 En liten båt blir ofta våt\

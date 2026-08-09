@@ -1,6 +1,10 @@
 ---
 title: "Ge mig mera köttbullar"
 author: "Okänd"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Köttbullar, köttbullar, köttbullar,\

@@ -1,6 +1,11 @@
 ---
 title: "Lilla snigel"
 author: "Okänd"
+categories: ["barnvisa", "klassisk", "sånglek"]
+audiences: ["bebis", "förskola"]
+aliases: ["Lilla snigel text"]
+featuredRank: 6
+rightsStatus: "legacy-unreviewed"
 ---
 
 Lilla snigel, akta dej,\

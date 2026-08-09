@@ -1,6 +1,10 @@
 ---
 title: "Sjörövar-Fabbe"
 author: "Okänd"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Sjörövar-Fabbe, farfars far\

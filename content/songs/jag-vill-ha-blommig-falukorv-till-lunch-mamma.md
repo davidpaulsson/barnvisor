@@ -1,6 +1,10 @@
 ---
 title: "Jag vill ha blommig falukorv till lunch, mamma"
 author: "Okänd"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Jag vill ha blommig falukorv till lunch, mamma\

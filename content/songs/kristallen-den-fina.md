@@ -1,6 +1,10 @@
 ---
 title: "Kristallen den fina"
 author: "Traditionell"
+categories: ["barnvisa", "klassisk"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Kristallen den fina som solen månd’ skina\

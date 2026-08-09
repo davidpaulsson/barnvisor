@@ -1,6 +1,10 @@
 ---
 title: "Du skåning"
 author: "Traditionell"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Du skåning, du skåning,\

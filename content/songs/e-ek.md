@@ -1,6 +1,10 @@
 ---
 title: "Majas alfabet L - Lavendel"
 author: "Okänd"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 På väldoft kunde jag kanske bli rik\

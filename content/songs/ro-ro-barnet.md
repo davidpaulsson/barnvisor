@@ -1,6 +1,10 @@
 ---
 title: "Ro, ro, barnet"
 author: "Okänd"
+categories: ["barnvisa", "vaggvisa", "godnattsång", "ramsa", "klassisk"]
+audiences: ["bebis"]
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Ro, ro, barnet,\

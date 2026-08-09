@@ -1,6 +1,10 @@
 ---
 title: "Bockarna Bruse"
 author: "Arvid Höglund"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Lilla bocken Bruse trippa över trollebro.\

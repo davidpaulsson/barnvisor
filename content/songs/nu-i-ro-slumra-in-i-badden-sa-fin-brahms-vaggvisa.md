@@ -1,6 +1,10 @@
 ---
 title: "Nu i ro slumra in i bädden så fin (Brahms vaggvisa)"
 author: "Alice Tegnér"
+categories: ["barnvisa", "vaggvisa", "godnattsång", "klassisk"]
+audiences: ["bebis"]
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Nu i ro, slumra in,\

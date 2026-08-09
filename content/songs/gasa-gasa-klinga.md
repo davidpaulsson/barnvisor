@@ -1,6 +1,10 @@
 ---
 title: "Gåsa gåsa klinga"
 author: "Okänd"
+categories: ["barnvisa", "ramsa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Gåsa, gåsa klinga.\

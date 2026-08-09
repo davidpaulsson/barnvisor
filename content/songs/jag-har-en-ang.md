@@ -1,6 +1,10 @@
 ---
 title: "Jag har en äng"
 author: "Jojje Wadenius"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Jag har en äng, en grön och stor\

@@ -1,6 +1,10 @@
 ---
 title: "Sov nu lillebror"
 author: "Hans Alfredson"
+categories: ["barnvisa", "godnattsång"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Sov nu lillebror\

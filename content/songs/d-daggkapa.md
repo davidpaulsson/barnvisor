@@ -1,6 +1,10 @@
 ---
 title: "Majas alfabet D - Daggkåpa"
 author: "Okänd"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 En daggkåpa ville jag vara\

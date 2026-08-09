@@ -1,6 +1,10 @@
 ---
 title: "Sång till friheten"
 author: "Björn Afzelius"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Du är det finaste jag vet.\

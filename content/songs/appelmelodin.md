@@ -1,6 +1,10 @@
 ---
 title: "Äppelmelodin"
 author: "Lollo Asplund"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Om du har ett äppel vill du dela det med mig\

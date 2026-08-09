@@ -1,6 +1,10 @@
 ---
 title: "Tänk om du var jag och jag var du"
 author: "Lena Sjöberg"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 Komposition: Martin Östergren"
 ---
 

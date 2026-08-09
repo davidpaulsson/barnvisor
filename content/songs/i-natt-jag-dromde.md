@@ -1,6 +1,10 @@
 ---
 title: "I natt jag drömde"
 author: "Cornelis Vreeswijk"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 I natt jag drömde något som jag aldrig drömt förut\

@@ -1,6 +1,10 @@
 ---
 title: "Hjulen på bussen"
 author: "Okänd"
+categories: ["barnvisa", "sånglek"]
+audiences: ["förskola"]
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Hjulen på bussen snurrar, runt, runt, runt,\

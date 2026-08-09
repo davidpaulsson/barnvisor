@@ -1,6 +1,10 @@
 ---
 title: "Broder Jakob"
 author: "Traditionell"
+categories: ["barnvisa", "klassisk"]
+audiences: ["förskola"]
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Broder Jakob, Broder Jakob,\

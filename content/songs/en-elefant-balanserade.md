@@ -1,6 +1,10 @@
 ---
 title: "En elefant balanserade"
 author: "Okänd"
+categories: ["barnvisa", "klassisk", "sånglek"]
+audiences: ["förskola"]
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 En elefant balanserade\

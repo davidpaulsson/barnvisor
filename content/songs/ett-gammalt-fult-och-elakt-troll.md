@@ -1,6 +1,10 @@
 ---
 title: "Ett gammalt fult och elakt troll"
 author: "Okänd"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Ett gammalt fult och elakt troll det var en gång\

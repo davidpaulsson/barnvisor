@@ -1,6 +1,10 @@
 ---
 title: "Albertina"
 author: "Okänd"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Det byggdes ett skepp uti norden\

@@ -1,6 +1,10 @@
 ---
 title: "Ole dole doff"
 author: "Okänd"
+categories: ["barnvisa", "ramsa"]
+audiences: ["förskola"]
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Ole dole doff\

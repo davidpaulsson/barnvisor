@@ -1,6 +1,10 @@
 ---
 title: "Kalle Teodor"
 author: "Okänd"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Minns du en sjöman för länge, länge sen,\

@@ -1,6 +1,10 @@
 ---
 title: "Baka kaka"
 author: "Alice Tegnér"
+categories: ["barnvisa", "klassisk", "ramsa"]
+audiences: ["förskola"]
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Baka, baka kaka!\

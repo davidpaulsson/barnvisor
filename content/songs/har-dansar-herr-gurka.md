@@ -1,6 +1,10 @@
 ---
 title: "Här dansar herr Gurka"
 author: "Okänd"
+categories: ["barnvisa", "sånglek"]
+audiences: ["förskola"]
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Här dansar herr Gurka\

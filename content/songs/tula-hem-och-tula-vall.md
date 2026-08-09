@@ -1,6 +1,10 @@
 ---
 title: "Tula hem och tula vall"
 author: "Alice Tegnér"
+categories: ["barnvisa", "klassisk"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Tula hem och tula vall,\

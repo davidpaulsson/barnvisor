@@ -1,11 +1,15 @@
 ---
 title: "Du käre lille snickerbo"
-author: "Okänd"
+author: "Astrid Lindgren"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Du käre lille snickerbo\
 här kommer jag igen\
-Nu är det bråttom, kan du tr\
+Nu är det bråttom, kan du tro\
 nu är det klippt igen
 
 Snickerboa hopp fallera,\

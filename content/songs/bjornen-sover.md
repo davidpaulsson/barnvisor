@@ -1,6 +1,11 @@
 ---
 title: "Björnen sover"
 author: "kanske Carl Michael Bellman"
+categories: ["barnvisa", "klassisk", "sånglek"]
+audiences: ["förskola"]
+aliases: ["Björnen sover text"]
+featuredRank: 1
+rightsStatus: "legacy-unreviewed"
 ---
 
 Björnen sover, björnen sover\

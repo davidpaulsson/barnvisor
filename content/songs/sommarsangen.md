@@ -1,6 +1,10 @@
 ---
 title: "Sommarsången"
 author: "Okänd"
+categories: ["barnvisa", "sommar"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Och nu så vill jag sjunga\

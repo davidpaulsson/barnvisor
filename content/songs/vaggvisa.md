@@ -1,6 +1,10 @@
 ---
 title: "Vaggvisa"
 author: "Allan Edwall"
+categories: ["barnvisa", "vaggvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Sov mitt lilla hjärta roligt i din bädd,\

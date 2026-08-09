@@ -1,6 +1,10 @@
 ---
 title: "Tummeliten"
 author: "Okänd"
+categories: ["barnvisa", "ramsa"]
+audiences: ["förskola"]
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Ett, två, tre, fyr, fem och sex och sju,\

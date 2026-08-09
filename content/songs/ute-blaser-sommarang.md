@@ -1,6 +1,10 @@
 ---
 title: "Ute blåser sommarvind"
 author: "Samuel Johan Hedborn"
+categories: ["barnvisa", "vaggvisa", "sommar", "klassisk"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Ute blåser sommarvind,\

@@ -1,6 +1,10 @@
 ---
 title: "Rövarnas visa"
 author: "Okänd"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Nu drar vi ut på rövarstråt\

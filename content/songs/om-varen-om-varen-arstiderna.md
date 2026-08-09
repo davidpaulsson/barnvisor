@@ -1,6 +1,10 @@
 ---
 title: "Om våren, om våren (Årstiderna)"
 author: "Okänd"
+categories: ["barnvisa", "sommar"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Om våren, om våren, då är det allra bäst,\

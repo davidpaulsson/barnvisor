@@ -1,6 +1,10 @@
 ---
 title: "Alla fåglar kommit re’n"
 author: "Okänd"
+categories: ["barnvisa", "sommar"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Alla fåglar kommit re’n,\

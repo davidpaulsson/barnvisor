@@ -1,6 +1,10 @@
 ---
 title: "Blåsippor"
 author: "Anna Maria Roos"
+categories: ["barnvisa", "sommar"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Blåsippor uti backarna står,\

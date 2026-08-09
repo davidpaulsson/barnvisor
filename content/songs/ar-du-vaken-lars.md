@@ -1,6 +1,10 @@
 ---
 title: "Är du vaken Lars"
 author: "Gullan Bornemark"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Är du vaken Lars?\

@@ -1,6 +1,10 @@
 ---
 title: "Vargsången"
 author: "Astrid Lindgren"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Vargen ylar i nattens skog,\

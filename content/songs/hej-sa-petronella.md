@@ -1,6 +1,10 @@
 ---
 title: "Hej sa Petronella"
 author: "Okänd"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Hej, sa Petronella i från plaskeby\

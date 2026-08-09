@@ -1,6 +1,10 @@
 ---
 title: "Vaggvisa för liten grön banan"
 author: "Lennart Hellsing"
+categories: ["barnvisa", "vaggvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Sov på din gren,\

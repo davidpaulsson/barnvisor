@@ -1,6 +1,10 @@
 ---
 title: "Det var så roligt"
 author: "Okänd"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Det var så roligt, jag måste skratta\

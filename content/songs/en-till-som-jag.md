@@ -1,6 +1,10 @@
 ---
 title: "En till som jag"
 author: "Okänd"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Vet du vad\

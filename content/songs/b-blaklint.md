@@ -1,6 +1,10 @@
 ---
 title: "Majas alfabet B - Blåklint"
 author: "Okänd"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Blått är mitt hårband,\

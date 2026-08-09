@@ -1,6 +1,10 @@
 ---
 title: "Lille katt"
 author: "Astrid Lindgren"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Lille katt, lille katt,\

@@ -1,6 +1,10 @@
 ---
 title: "Lilla Lasse"
 author: "Alice Tegnér"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Lilla Lasse går och gråter,\

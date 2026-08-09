@@ -1,6 +1,10 @@
 ---
 title: "Videvisan"
 author: "Zacharias Topelius"
+categories: ["barnvisa", "klassisk"]
+audiences: ["bebis"]
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Sov du lilla vide ung,\

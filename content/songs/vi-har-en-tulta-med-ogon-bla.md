@@ -1,6 +1,10 @@
 ---
 title: "Vi har en tulta med ögon blå"
 author: "Ingela “Pling” Forsman och Hans Matthison-Hansen"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Vi har en tulta med ögon blå\

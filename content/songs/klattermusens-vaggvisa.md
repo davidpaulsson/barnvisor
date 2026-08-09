@@ -1,6 +1,10 @@
 ---
 title: "Klättermusens vaggvisa"
 author: "Okänd"
+categories: ["barnvisa", "vaggvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Vyss lull lilla palt,\

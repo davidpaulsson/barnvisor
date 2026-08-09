@@ -1,6 +1,10 @@
 ---
 title: "Lilla ungen min"
 author: "Georg Riedel"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Sov nu, lilla ungen min.\

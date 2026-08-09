@@ -1,6 +1,10 @@
 ---
 title: "Ylle (Jag är ett litet ylle)"
 author: "Anders Melander"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Jag är ett litet ylle\

@@ -1,6 +1,10 @@
 ---
 title: "Mitt lilla barn"
 author: "Okänd"
+categories: ["barnvisa", "vaggvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Ett barn ska jag ha när jag blir stor\

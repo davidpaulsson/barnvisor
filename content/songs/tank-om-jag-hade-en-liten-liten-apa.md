@@ -1,6 +1,10 @@
 ---
 title: "Tänk om jag hade en liten liten apa"
 author: "Okänd"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Tänk om jag hade en liten, liten apa\

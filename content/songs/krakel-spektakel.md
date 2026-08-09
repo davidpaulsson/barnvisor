@@ -1,6 +1,10 @@
 ---
 title: "Krakel spektakel"
 author: "Okänd"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Krakel Spektakel kusin Vitamin.\

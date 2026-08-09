@@ -1,6 +1,10 @@
 ---
 title: "Majas alfabet A - Ask"
 author: "Okänd"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Vi har en ask, den är minst hundra år.\

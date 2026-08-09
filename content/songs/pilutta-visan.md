@@ -1,6 +1,10 @@
 ---
 title: "Pilutta-visan"
 author: "Okänd"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 Madicken, Madicken, pilutta dig, pilutta dig,\

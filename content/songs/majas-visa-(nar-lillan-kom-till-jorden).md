@@ -1,6 +1,10 @@
 ---
 title: "Majas visa (När lillan kom till jorden)"
-author: "Okänd"
+author: "Alice Tegnér"
+categories: ["barnvisa"]
+audiences: []
+aliases: []
+rightsStatus: "legacy-unreviewed"
 ---
 
 När lillan kom till jorden,\
@@ -22,5 +26,3 @@ Och därför, säger mamma,\
 så är jag nästan alltid glad,\
 jag tycker hela livet\
 är som en solskensdag.
-
-Alice Tegnér
