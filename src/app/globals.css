@@ -6,6 +6,10 @@ body {
   font-family: var(--font-inter);
 }
 
+.song-banner:has(ins[data-ad-status="unfilled"]) {
+  display: none;
+}
+
 @layer base {
   :root {
     --background: 0 0% 100%;

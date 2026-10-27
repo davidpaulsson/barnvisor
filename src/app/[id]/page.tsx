@@ -1,5 +1,6 @@
 import { IndexLink } from "@/components/index-link";
 import { SongsList } from "@/components/songs-list";
+import { SongBanner } from "@/components/song-banner";
 import {
   getCollection,
   getCollectionSongs,
@@ -348,6 +349,8 @@ async function SongPage({ id }: { id: string }) {
             dangerouslySetInnerHTML={{ __html: song.content }}
           />
         </section>
+
+        <SongBanner key={song.id} />
 
         {songCollections.length ? (
           <nav className="mt-10 border-t pt-6" aria-label="Sångens samlingar">

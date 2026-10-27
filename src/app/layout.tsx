@@ -4,6 +4,11 @@ import { ThemeProvider } from "@/components/theme-provider";
 
 import { Inter } from "next/font/google";
 import Script from "next/script";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  other: { "google-adsense-account": "ca-pub-2748368742566442" },
+};
 
 const inter = Inter({ subsets: ["latin"] });
 

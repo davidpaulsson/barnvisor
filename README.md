@@ -30,3 +30,12 @@ Ta en Search Console-baslinje för sex månader före publicering. Följ klick,
 visningar, CTR, position och indexering efter 28, 56 och 84 dagar. Prioritera
 därefter individuella innehållsförbättringar för sökfrågor där sajten redan
 ligger ungefär position 5–20.
+
+## Annonser
+
+Varje sångsida har en enda annonsplats direkt efter sångtexten. Startsidan
+och samlingssidorna har inga annonsplatser. Bannern följer textkolumnens bredd
+och är 90 px hög. Tomma annonsplatser och annonser vid utskrift döljs.
+
+Ingen automatisk annonsuppdatering används. Lokalt visas endast den reserverade
+platsen, utan annonsanrop.
