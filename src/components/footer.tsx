@@ -86,6 +86,10 @@ export const Footer = ({
           </ul>
         </nav>
 
+        <Link href="/integritet" className="block hover:text-foreground">
+          Integritet och kakor
+        </Link>
+
         <Heart
           className="inline-block h-5 w-5 fill-red-600 stroke-none"
           aria-hidden="true"
