@@ -6,10 +6,6 @@ export function SongGuide({ guide }: { guide: Guide }) {
       <h2 id="sangtips" className="mb-3 text-lg font-medium">
         {guide.title}
       </h2>
-      <p className="text-sm text-muted-foreground">
-        Ett eget aktivitetsförslag från Barnvistexter. Det beskriver ett sätt
-        att använda visan, inte en dokumenterad traditionell lek.
-      </p>
       <p className="text-muted-foreground">
         <strong className="font-medium text-foreground">Förbered: </strong>
         {guide.preparation}
