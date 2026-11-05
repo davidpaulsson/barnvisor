@@ -367,7 +367,9 @@ async function SongPage({ id }: { id: string }) {
 
         {songCollections.length ? (
           <nav className="mt-10 border-t pt-6" aria-label="Sångens samlingar">
-            <h2 className="mb-3 text-sm font-medium">Finns i samlingarna</h2>
+            <h2 className="mb-3 text-base font-medium text-foreground">
+              Finns i samlingarna
+            </h2>
             <ul className="flex flex-wrap gap-2">
               {songCollections.map((collection) => (
                 <li key={collection.slug}>
@@ -385,7 +387,9 @@ async function SongPage({ id }: { id: string }) {
 
         {related.length ? (
           <section className="mt-10 border-t pt-6">
-            <h2 className="mb-5 font-medium">Liknande barnvisor</h2>
+            <h2 className="mb-3 text-base font-medium text-foreground">
+              Liknande barnvisor
+            </h2>
             <SongsList songs={related} layout="rows" />
           </section>
         ) : null}
