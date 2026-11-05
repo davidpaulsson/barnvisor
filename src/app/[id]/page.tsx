@@ -1,6 +1,8 @@
 import { IndexLink } from "@/components/index-link";
 import { SongsList } from "@/components/songs-list";
 import { SongBanner } from "@/components/song-banner";
+import { SongGuide } from "@/components/song-guide";
+import { getSongGuide } from "@/lib/song-guides";
 import {
   getCollection,
   getCollectionSongs,
@@ -83,9 +85,12 @@ export async function generateMetadata({
   const song = await findSong(id);
   if (!song) return {};
   const canonicalUrl = siteUrl + "/" + song.id;
-  const cleanDescription = song.content
-    ? truncateText(plainText(song.content))
-    : 'Text till barnvisan "' + song.title + '"';
+  const guide = getSongGuide(song.id);
+  const cleanDescription = guide
+    ? truncateText(guide.intro)
+    : song.content
+      ? truncateText(plainText(song.content))
+      : 'Text till barnvisan "' + song.title + '"';
 
   return {
     title: song.title + " – text till barnvisa | Barnvistexter.se",
@@ -265,6 +270,7 @@ async function CollectionPage({ id }: { id: string }) {
 async function SongPage({ id }: { id: string }) {
   const song = await findSong(id);
   if (!song) notFound();
+  const guide = getSongGuide(song.id);
 
   const allSongs = await getAllSongs();
   const primaryCollection = getPrimaryCollection(song);
@@ -336,8 +342,13 @@ async function SongPage({ id }: { id: string }) {
             <span aria-hidden="true"> / </span>
             <span>{song.title}</span>
           </nav>
-          <h1 className="mb-1 text-2xl font-medium">{song.title} – text</h1>
+          <h1 className="mb-1 text-2xl font-medium">
+            {song.title} – text{guide ? " och sångtips" : ""}
+          </h1>
           <p className="!mb-0 text-sm text-muted-foreground">{song.author}</p>
+          {guide ? (
+            <p className="!mb-0 mt-4 text-muted-foreground">{guide.intro}</p>
+          ) : null}
         </header>
 
         <section aria-labelledby="sangtext">
@@ -351,6 +362,8 @@ async function SongPage({ id }: { id: string }) {
         </section>
 
         <SongBanner key={song.id} />
+
+        {guide ? <SongGuide guide={guide} /> : null}
 
         {songCollections.length ? (
           <nav className="mt-10 border-t pt-6" aria-label="Sångens samlingar">

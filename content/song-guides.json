@@ -1,0 +1,2007 @@
+{
+  "a-ask": {
+    "intro": "Asken och gungan ger en utgångspunkt för att prata om ett träds storlek och tiden som går.",
+    "title": "Rita trädet som växer",
+    "preparation": "Ta fram papper och kritor.",
+    "steps": [
+      "Rita en stam och en låg gren med en gunga.",
+      "Låt barnet lägga till fler grenar medan du sjunger.",
+      "Rita någon som sitter i gungan och berätta vad personen ser."
+    ],
+    "adaptation": "Utomhus kan ni titta på ett träd och visa dess form med armarna utan att klättra.",
+    "discussion": "En ask är ett träd. Här betyder ordet alltså inte en liten låda."
+  },
+  "abo-nabo-nibu-null": {
+    "intro": "Ramsans blandning av påhittade ljud och en stad gör den till en lek med både rytm och platsnamn.",
+    "title": "Låt ramsan välja en rörelse",
+    "preparation": "Sitt i ring och välj tre enkla rörelser.",
+    "steps": [
+      "Säg ramsan långsamt och klappa en jämn puls.",
+      "Låt en markering gå mellan deltagarna med pulsen.",
+      "Den som har markeringen vid slutet väljer nästa rörelse."
+    ],
+    "adaptation": "Låt markeringen vara en gest i stället för ett föremål, så behövs inga redskap.",
+    "discussion": "Alla ord behöver inte ha en bestämd betydelse. Prova att säga nonsensorden med olika betoning."
+  },
+  "albertina": {
+    "intro": "Skeppet och den återkommande uppmaningen att pumpa bjuder in till en gemensam låtsasfärd.",
+    "title": "Arbeta ombord på ett låtsasskepp",
+    "preparation": "Sitt med utrymme att röra armarna.",
+    "steps": [
+      "Låt händerna visa ett skepp som gungar.",
+      "Gör pumprörelser i den återkommande delen.",
+      "Byt till att måla ett låtsasskrov när texten handlar om färgen."
+    ],
+    "adaptation": "En deltagare kan leda pumprörelserna medan de andra sjunger. Byt efter en vers.",
+    "discussion": "Att pumpa läns betyder att pumpa ut vatten ur en båt. Gredelint är en lila färg."
+  },
+  "alla-faglar-kommit-ren": {
+    "intro": "Fåglarna i visan kan bli början på en lyssningsstund om vårens ljud.",
+    "title": "Lyssna efter fågelröster",
+    "preparation": "Välj en vers och en plats där ni kan sitta tillsammans.",
+    "steps": [
+      "Sjung versen och lyssna efter fågelnamnen.",
+      "Låt var och en hitta på ett kort fågelläte.",
+      "Var tysta en stund och lyssna efter ljud utanför rummet."
+    ],
+    "adaptation": "Ta med visan på en promenad och lyssna utan att ni behöver kunna namnge fåglarna.",
+    "discussion": "Ordet re’n är en förkortning av redan. Skilj mellan era påhittade fågelläten och ljud ni faktiskt hör."
+  },
+  "alla-ska-sova-for-nu-ar-det-natt": {
+    "intro": "Visan låter djur, människor och landskap gå till vila. Använd uppräkningen som en lugn avslutning på dagen.",
+    "title": "Låt djuren komma till ro",
+    "preparation": "Sätt er bekvämt med ett mjukdjur om barnet vill.",
+    "steps": [
+      "Sjung en vers och låt mjukdjuret lyssna.",
+      "Sänk händerna mot knät när djuren vilar.",
+      "Avsluta med en stilla stund i stället för en ny aktivitet."
+    ],
+    "adaptation": "Välj en enda vers om hela sången blir lång. Barnet behöver inte sjunga med.",
+    "discussion": "Prata gärna om ett av djuren före sången. Spara längre frågor till en annan stund om ni vill behålla kvällsron."
+  },
+  "annicka-dannicka-sodemanne": {
+    "intro": "Här möts ramsljud, namn och titlar. Prova att använda rytmen för att välja vem som börjar en gemensam uppgift.",
+    "title": "Välj en startperson med ramsan",
+    "preparation": "Ställ fram en enkel uppgift, som att välja första sången.",
+    "steps": [
+      "Säg ramsan en gång utan att peka ut någon.",
+      "Peka sedan i jämn takt runt ringen.",
+      "Låt den sista personen välja första sången, utan att någon åker ut."
+    ],
+    "adaptation": "Byt håll eller startperson nästa gång så att ramsan inte alltid landar på samma deltagare.",
+    "discussion": "Titlarna kung, general och domare kan ni prata om efteråt. Slutordet behöver inte betyda att någon måste lämna leken."
+  },
+  "annika-dannika": {
+    "intro": "Ramsans ljudföljder passar för att pröva hur tungan och rytmen samarbetar, utan krav på att varje ord ska betyda något.",
+    "title": "Bygg ett ljudeko",
+    "preparation": "Sitt så att alla hör den som leder.",
+    "steps": [
+      "Dela ramsan i korta delar.",
+      "Säg en del och låt gruppen svara med samma ljud.",
+      "Sätt ihop delarna i ett lugnt gemensamt tempo."
+    ],
+    "adaptation": "Låt en deltagare välja om nästa omgång ska sägas med ljus eller mörk röst, utan att skrika.",
+    "discussion": "Ljud och rim får stå i centrum. Använd inte slutet som en anledning att utesluta någon."
+  },
+  "apala-misala": {
+    "intro": "De påhittade orden gör ramsan användbar som en liten ljudlek där ingen behöver kunna texten i förväg.",
+    "title": "Skicka en rytm runt ringen",
+    "preparation": "Välj en enkel klapp som alla kan göra.",
+    "steps": [
+      "Säg första delen och klappa pulsen.",
+      "Låt nästa person fortsätta med samma klapp medan du säger nästa del.",
+      "Avsluta tillsammans och låt någon välja en ny klapp."
+    ],
+    "adaptation": "Gör klappen på knäna eller markera med en nick om händerna behöver vila.",
+    "discussion": "Försök inte ge alla nonsensord en påhittad historisk förklaring. Ni kan i stället hitta på egna rim efteråt."
+  },
+  "appel-pappel": {
+    "intro": "Ramsan blandar fruktord, en kråka och en tydlig avslutning. Använd den för att fördela turer utan utslagning.",
+    "title": "Låt kråkan välja första turen",
+    "preparation": "Rita en enkel fågel på ett papper.",
+    "steps": [
+      "För fågelbilden mellan deltagarna i lugn puls.",
+      "Säg ramsan gemensamt.",
+      "Den som har fågeln vid slutet får börja berätta eller välja en sång."
+    ],
+    "adaptation": "En vuxen kan hålla bilden och peka på deltagarna om det är svårt att skicka den vidare.",
+    "discussion": "Kvist betyder en liten gren. Prata om vad kråkan kan se från sin kvist i stället för att låta någon åka ut."
+  },
+  "appelmelodin": {
+    "intro": "Sångens frågor om att dela med sig öppnar för samtal om gemenskap, val och att få vara med.",
+    "title": "Prata om att dela och bjuda in",
+    "preparation": "Ta fram papper att rita på.",
+    "steps": [
+      "Lyssna på eller sjung en del av sången.",
+      "Rita något som går att dela och något som flera kan använda tillsammans.",
+      "Låt barnet föreslå hur man kan bjuda in någon i en lek."
+    ],
+    "adaptation": "Använd en påhittad situation med leksaksfigurer om barnet inte vill prata om egna erfarenheter.",
+    "discussion": "Att dela mat och att låta någon delta i en lek är olika situationer. Låt samtalet rymma att man också får säga nej."
+  },
+  "ar-du-vaken-lars": {
+    "intro": "Frågor och svar om morgonens bestyr gör visan lätt att dela mellan två röster.",
+    "title": "Sjung morgonen som en dialog",
+    "preparation": "Välj vem som frågar och vem som svarar.",
+    "steps": [
+      "Sjung frågedelen och låt den andra lyssna.",
+      "Gör handrörelser för handtvätt och tandborstning i svarsdelen.",
+      "Byt roller när ni känner igen upplägget."
+    ],
+    "adaptation": "Låt en vuxen sjunga båda rollerna och barnet bara visa rörelserna.",
+    "discussion": "Sången kan påminna om morgonrutinen, men låt den vara en lek utan att bedöma vem som är duktig."
+  },
+  "arla-parla": {
+    "intro": "Sol, måne och ramsljud ger flera tydliga hållpunkter i en annars lekfull ordkedja.",
+    "title": "Markera orden med gester",
+    "preparation": "Bestäm en gest för solen och en för månen.",
+    "steps": [
+      "Säg ramsan och klappa mellan gesterna.",
+      "Gör den överenskomna gesten när ni hör sol eller måne.",
+      "Låt nästa ledare välja två andra ord att gestalta."
+    ],
+    "adaptation": "Säg ramsan sittande och använd bara händerna om gruppen vill ha en lugnare lek.",
+    "discussion": "En knekt är ett äldre ord för soldat. Nonsensljuden kan ni pröva utan att leta efter en betydelse."
+  },
+  "b-blaklint": {
+    "intro": "Visan samlar flera blå saker kring blomman blåklint. Gör den till en färgspaning med ord och bilder.",
+    "title": "Samla blått på ett papper",
+    "preparation": "Ta fram en blå krita och ett papper.",
+    "steps": [
+      "Sjung visan och lyssna efter blå saker.",
+      "Rita en av sakerna som nämns.",
+      "Fyll på med något blått som barnet själv hittar i rummet."
+    ],
+    "adaptation": "Gör en gemensam teckning där var och en lägger till en blå detalj.",
+    "discussion": "Blåklint och viol är blomnamn. Använd bilder om ni vill jämföra dem, utan att behöva plocka växter."
+  },
+  "ba-ba-vita-lamm": {
+    "intro": "Frågan till lammet och svaret om ullen passar för en enkel dialog och en lek om kläder.",
+    "title": "Fråga lammet om ullen",
+    "preparation": "Använd ett leksakslamm eller låt handen föreställa lammet.",
+    "steps": [
+      "En person sjunger frågan till lammet.",
+      "En annan svarar med lammets del.",
+      "Visa med gester vilka kläder som nämns och byt sedan roller."
+    ],
+    "adaptation": "Den som inte vill sjunga kan peka ut strumpor, rock och kjol på en teckning.",
+    "discussion": "Ull är fårens päls. En helgdagsrock är en rock för högtidliga tillfällen; jämför gärna med dagens finkläder."
+  },
+  "babblarnas-vaggvisa": {
+    "intro": "De återkommande vilopauserna kan bli en tydlig avslutning på lekstunden före läggning.",
+    "title": "Låt en figur säga god natt",
+    "preparation": "Välj en figur eller ett mjukdjur som barnet känner igen.",
+    "steps": [
+      "Sjung en vers medan figuren ligger stilla.",
+      "Låt barnet visa var figurens kudde finns.",
+      "Avsluta med samma korta godnattgest varje gång."
+    ],
+    "adaptation": "Välj färre verser om barnet redan är trött, och låt lyssnandet räcka.",
+    "discussion": "Figurens vila kan vara låtsaslek. Undvik att göra insomnandet till en uppgift som barnet måste lyckas med."
+  },
+  "baka-kaka": {
+    "intro": "Bakningens olika moment gör visan lätt att följa med händerna, även utan ett riktigt kök.",
+    "title": "Baka en låtsaskaka",
+    "preparation": "Sitt vid ett bord eller med händerna fria i knät.",
+    "steps": [
+      "Forma en deg mellan händerna medan ni sjunger.",
+      "Platta ut och pricka en låtsaskaka.",
+      "Visa hur kakan skjuts in i en tänkt ugn och delas när den är klar."
+    ],
+    "adaptation": "Gör en jättestor kaka med vida armrörelser eller små kakor med fingertopparna.",
+    "discussion": "Rörelserna föreställer bakning. Ni behöver varken mjöl, mat eller en varm ugn för den här aktiviteten."
+  },
+  "bjornen-sover": {
+    "intro": "Björnen som vilar ger en tydlig växling mellan stillhet och rörelse. Prova en lugn variant utan jakt.",
+    "title": "Väck låtsasbjörnen med en hälsning",
+    "preparation": "Gör en ring med plats för en deltagare i mitten.",
+    "steps": [
+      "Låt en frivillig vara björn och vila sittande.",
+      "Sjung medan resten av gruppen gör små steg på plats.",
+      "När sången slutar vaknar björnen och vinkar till nästa frivilliga björn."
+    ],
+    "adaptation": "Låt ett mjukdjur vara björn om ingen vill sitta i mitten.",
+    "discussion": "Varlig betyder försiktig. Håll isär lekens björn och riktiga vilda djur, som man ska ge utrymme."
+  },
+  "blasippor": {
+    "intro": "Blommorna och vårkänslan kan användas för att uppmärksamma årstidens färger utan att plocka något.",
+    "title": "Rita vårens första färger",
+    "preparation": "Ta fram papper och blå, gröna och bruna kritor.",
+    "steps": [
+      "Sjung en vers och låt händerna föreställa blommor som öppnar sig.",
+      "Rita blommorna som ni föreställer er dem.",
+      "Prata om vilka vårtecken ni själva har sett."
+    ],
+    "adaptation": "Gör spaningen från ett fönster eller med bilder om ni inte kan gå ut.",
+    "discussion": "Niga är att böja lätt på knäna. Textens blommor kan ni gestalta med händerna utan att niga själva."
+  },
+  "blinka-lilla-stjarna": {
+    "intro": "Stjärnans återkomst i sången ger en enkel ram för en lugn sångstund med små handrörelser.",
+    "title": "Låt händerna bli en stjärnhimmel",
+    "preparation": "Sitt bekvämt och välj en vers.",
+    "steps": [
+      "Öppna och slut händerna mjukt som blinkande stjärnor.",
+      "Rita en stor stjärna i luften med fingret.",
+      "Låt händerna vila när versen tar slut."
+    ],
+    "adaptation": "Barnet kan ligga stilla och lyssna medan en vuxen visar rörelserna.",
+    "discussion": "Skyn betyder himlen. Jämförelsen med en diamant beskriver hur stjärnan ser ut i sången, inte vad den består av."
+  },
+  "bockarna-bruse": {
+    "intro": "De tre bockarnas olika storlek och mötet vid bron ger tydliga roller i en liten berättelselek.",
+    "title": "Berätta med tre låtsasbockar",
+    "preparation": "Lägg ett papper som bro på bordet och välj tre leksaksfigurer.",
+    "steps": [
+      "Låt den minsta figuren gå över medan ni sjunger.",
+      "Byt till mellanfiguren och sedan den största.",
+      "Återberätta vad som hände vid bron med figurerna."
+    ],
+    "adaptation": "Använd fingrar som bockar om ni inte har figurer. Ingen behöver spela ett skrämmande troll.",
+    "discussion": "Håll berättelsens konflikter i leken. Figurerna kan gestalta mötet utan knuffar mellan deltagarna."
+  },
+  "bom-bom-bom": {
+    "intro": "Trumma, klocka, regn och hjärta får var sitt ljud. Prova att göra en liten ljudbild med kroppen.",
+    "title": "Bygg sångens fyra ljud",
+    "preparation": "Sitt med händerna fria och lyssna på ljudorden.",
+    "steps": [
+      "Trumma mjukt på knäna till trummans del.",
+      "Växla till fingertoppsljud för klocka och regn.",
+      "Lägg handen stilla mot bröstet när hjärtat nämns."
+    ],
+    "adaptation": "Dela gruppen i ljudroller och låt en vuxen visa när varje grupp börjar.",
+    "discussion": "Jämför vilka ljud ni kan höra i rummet med vilka ni gör själva. Alla ljud behöver inte vara starka."
+  },
+  "bom-sicka-bom": {
+    "intro": "Hästbilden och de många ljudorden passar för en rörelselek där gruppen styr tempot tillsammans.",
+    "title": "Rid på plats till rytmen",
+    "preparation": "Stå med gott om utrymme eller sitt på stolar.",
+    "steps": [
+      "Markera hästens steg med växelvisa handklappar på knäna.",
+      "Låt armarna visa en lugn ridtur medan ni sjunger.",
+      "Stanna på en gemensam handgest mellan omgångarna."
+    ],
+    "adaptation": "Gör ridturen helt sittande med händerna som hovar.",
+    "discussion": "Välj gångtempo även om texten är fartfylld. Ni behöver inte springa eller göra stora skutt för att följa rytmen."
+  },
+  "borgmastar-munthe": {
+    "intro": "Ryttarna och deras olika färdsätt ger en berättelse att rita eller gestalta i ordning.",
+    "title": "Låt ryttarna passera",
+    "preparation": "Rita ett streck som väg på ett papper.",
+    "steps": [
+      "Rita eller välj en figur för varje ryttare.",
+      "För figurerna längs vägen i den ordning de nämns.",
+      "Låt den sista personen åka i en ritad vagn."
+    ],
+    "adaptation": "En vuxen kan sköta figurerna medan barnet gör hovljud med fingertopparna.",
+    "discussion": "En schäs är en sorts hästdragen vagn. En skäck är en fläckig häst."
+  },
+  "bro-bro-breja": {
+    "intro": "Sången kan bli en gemensam passagelek. Här är en variant där bron hålls öppen och ingen fångas.",
+    "title": "Gå genom en öppen bro",
+    "preparation": "Två frivilliga gör en rymlig bro med armarna utan att hålla hårt.",
+    "steps": [
+      "Låt deltagarna gå igenom en i taget medan ni sjunger.",
+      "Håll bron öppen även när sången slutar.",
+      "Byt brobyggare och börja om från en annan sida."
+    ],
+    "adaptation": "Gör bron av två ritade stolpar på ett bord och låt fingrarna gå igenom.",
+    "discussion": "Frågan om en käresta behöver ingen besvara personligt. Ni kan sjunga texten utan att fråga ut deltagarna."
+  },
+  "broder-jakob": {
+    "intro": "De upprepade fraserna gör visan lämplig för att först sjunga tillsammans och sedan prova förskjutna starter.",
+    "title": "Prova eko före kanon",
+    "preparation": "Dela in er i två grupper med varsin ledare.",
+    "steps": [
+      "Låt ena gruppen sjunga en fras och den andra härma.",
+      "Sjung hela sången tillsammans med samma start.",
+      "Om det känns lätt kan andra gruppen börja när första gruppen når nästa fras."
+    ],
+    "adaptation": "Stanna vid ekosång om olika starter blir röriga. Ingen behöver sjunga ensam.",
+    "discussion": "Kanon betyder här att grupper sjunger samma melodi med olika starttid. Dinglande händer kan föreställa klockorna."
+  },
+  "c-champinjon": {
+    "intro": "Letandet i visan kan bli en bildlek om att upptäcka detaljer och räkna vad som finns i korgen.",
+    "title": "Leta efter en ritad svamp",
+    "preparation": "Rita en champinjon och några barr på olika papper.",
+    "steps": [
+      "Lägg bilderna synligt i rummet.",
+      "Sjung och låt barnet leta efter svampbilden.",
+      "Samla bilderna och räkna hur många svampar ni hittade."
+    ],
+    "adaptation": "Göm bilden delvis för en svårare omgång eller håll fram två bilder att välja mellan.",
+    "discussion": "Använd teckningar i den här leken. En sång eller bild räcker inte för att avgöra om en riktig svamp kan ätas."
+  },
+  "d-daggkapa": {
+    "intro": "Daggkåpans blad och droppar ger former att upptäcka och återskapa på papper.",
+    "title": "Rita ett blad med droppar",
+    "preparation": "Ta fram gröna och blå kritor.",
+    "steps": [
+      "Sjung visan och rita ett stort blad.",
+      "Gör bladets kant vågig med fingret först och kritan sedan.",
+      "Lägg till blå prickar som droppar på bladet."
+    ],
+    "adaptation": "Forma ett blad med händerna och låt fingertopparna visa dropparna utan ritmaterial.",
+    "discussion": "Dagg är små vattendroppar som kan synas på växter. Uddig beskriver en kant med små spetsar."
+  },
+  "dansa-min-docka": {
+    "intro": "Den korta texten passar för att låta en docka visa en dans som barnet sedan kan härma.",
+    "title": "Låt dockan leda dansen",
+    "preparation": "Välj en docka, ett mjukdjur eller en ritad figur.",
+    "steps": [
+      "Sjung och låt figuren gunga från sida till sida.",
+      "Låt barnet välja nästa rörelse åt figuren.",
+      "Prova rörelsen tillsammans när ni sjunger igen."
+    ],
+    "adaptation": "Gör hela dansen med fingrarna på bordet om ni vill sitta kvar.",
+    "discussion": "Unger och tunger är äldre ordformer för ung och tung. Sångens skämt behöver inte bli påståenden om hur äldre människor kan röra sig."
+  },
+  "det-ar-sa-ledsamt-att-ga-i-ringen": {
+    "intro": "Visans tema om att vilja vara med kan bli en ringdans där alla får en tydlig plats.",
+    "title": "Bjud in hela ringen",
+    "preparation": "Stå eller sitt i ring och låt en vuxen leda.",
+    "steps": [
+      "Sjung medan alla gungar i samma takt.",
+      "Låt ledaren vända sig mot varje deltagare med en välkomnande gest.",
+      "Avsluta med att alla väljer en gemensam rörelse."
+    ],
+    "adaptation": "Gör inbjudningarna med ögonkontakt eller en vinkning i stället för att hålla handen.",
+    "discussion": "Prata om hur man kan bjuda in någon utan att kräva att personen dansar. Undvik att lämna en deltagare utan partner."
+  },
+  "det-var-sa-roligt": {
+    "intro": "Den märkliga besökaren och sakerna som börjar dansa ger material till en gemensam fantasiillustration.",
+    "title": "Rita det dansande köket",
+    "preparation": "Ta fram ett papper och välj några köksföremål att rita.",
+    "steps": [
+      "Sjung en del och rita besökaren som ni föreställer er honom.",
+      "Lägg till ett föremål som börjar dansa.",
+      "Visa med händerna hur just det föremålet rör sig."
+    ],
+    "adaptation": "En person kan beskriva ett dansande föremål medan de andra gissar vilket det är.",
+    "discussion": "Näver är björkens yttre bark. Textens kläder och former hör till fantasin; ni behöver inte göra egna dräkter."
+  },
+  "dinkeli-dunkeli-doja": {
+    "intro": "Papegojan och pepparkakshuset ger två tydliga bilder att koppla till de lekfulla ljuden.",
+    "title": "Låt papegojan svara",
+    "preparation": "Rita en papegoja eller forma en näbb med handen.",
+    "steps": [
+      "Säg eller sjung en kort del av texten.",
+      "Låt papegojan upprepa de ljud ni nyss gjorde.",
+      "Byt ledare och hitta på ett nytt kort ljud att härma efter sången."
+    ],
+    "adaptation": "Två vuxna kan visa ekot först, så att barnet får lyssna innan det deltar.",
+    "discussion": "Ljudnamnen behöver ingen bestämd förklaring. Prova att skilja på djuret papegoja och orden ni hittar på själva."
+  },
+  "domaredansen": {
+    "intro": "Domaredansen är en traditionell visa. Här hittar du sångtexten och ett enkelt förslag på hur ni kan göra en gemensam rörelselek till den.",
+    "title": "Prova en härmlek till sången",
+    "preparation": "Ställ er i en ring med plats att sträcka ut armarna. Börja med att sjunga visan tillsammans så att alla får höra melodin. Ni behöver inga redskap.",
+    "steps": [
+      "Välj en person som får börja som rörelseledare, eller domare.",
+      "Ledaren visar en enkel rörelse, exempelvis att klappa händerna, stampa försiktigt eller sträcka armarna uppåt.",
+      "Resten av gruppen härmar rörelsen medan ni sjunger.",
+      "När sången är slut får en ny person leda nästa omgång. Den som vill kan stå kvar på sin plats och visa rörelsen därifrån. Det går också bra att avstå från att leda."
+    ],
+    "adaptation": "För en grupp som lär sig sången: Låt en vuxen leda flera omgångar med samma rörelse innan barnen tar över.\n\nFör en sittande sångstund: Sitt i ring och välj rörelser med händer, armar och ansikte.\n\nFör mer variation: Låt nästa ledare lägga till en rörelse, så att ni tillsammans bygger en kort rörelseföljd.",
+    "discussion": "Begynna är ett äldre ord för att börja. Käresta betyder någon man är kär i. Texten nämner också vin. Läs igenom den före sångstunden och avgör om just den här visan passar gruppen och tillfället."
+  },
+  "du-kare-lille-snickerbo": {
+    "intro": "Berättaren söker sig till snickerboden efter ett hyss. Använd sången för att återberätta och prata om vad som hände.",
+    "title": "Rita berättelsens nästa scen",
+    "preparation": "Ta fram papper och kritor.",
+    "steps": [
+      "Sjung en del av sången och rita snickerboden.",
+      "Låt barnet hitta på vad berättaren gör där inne.",
+      "Berätta hur personen och de vuxna kan prata efteråt."
+    ],
+    "adaptation": "Använd leksaksfigurer om det är lättare att berätta än att rita.",
+    "discussion": "Snickerbo är en snickarbod, ett utrymme för träarbete. Prata om berättelsens konflikt utan att göra jagande eller inlåsning till en lek."
+  },
+  "du-skaning": {
+    "intro": "Sångens tydliga stopp ger en enkel ram för att öva på att starta och stanna tillsammans.",
+    "title": "Stanna på en gemensam signal",
+    "preparation": "Välj en rörelse som kan göras på plats.",
+    "steps": [
+      "Sjung medan ni rör händerna i jämn takt.",
+      "Stanna när stoppet kommer i sången.",
+      "Låt en ny ledare visa rörelsen nästa omgång."
+    ],
+    "adaptation": "Byt mellan att stampa lätt och att rulla händerna. Alla deltar även om någon stannar senare.",
+    "discussion": "Att hålla opp betyder här att sluta eller göra uppehåll. Leken fungerar utan tävling eller utslagning."
+  },
+  "e-ek": {
+    "intro": "Lavendelvisans doftpåsar och lilla fabrik kan bli en skapande stund med papper i stället för verkliga dofter.",
+    "title": "Gör en ritad doftpåse",
+    "preparation": "Ta fram ett papper och lila och gröna kritor.",
+    "steps": [
+      "Sjung och rita blommor som ska ligga i en påse.",
+      "Vik eller rita en påse runt dem.",
+      "Låt barnet berätta vem som skulle få påsen och var den skulle ligga."
+    ],
+    "adaptation": "Låt fingrarna packa en låtsaspåse om ni inte vill rita.",
+    "discussion": "Lavendel är växten som visan handlar om. Aktiviteten kräver inga parfymer, oljor eller torkade blommor."
+  },
+  "ekorren-gick-pa-angen": {
+    "intro": "Djuren hjälps åt med arbetet på ängen. Prova att fördela sysslorna i en gemensam rörelseberättelse.",
+    "title": "Hjälp djuren samla hö",
+    "preparation": "Stå med plats för lugna armrörelser.",
+    "steps": [
+      "Välj ett djur var och lyssna efter dess tur.",
+      "Visa djurets arbete med en liten gest.",
+      "Avsluta med att alla låtsas samla höet i en hög."
+    ],
+    "adaptation": "En vuxen kan visa alla rollerna medan barnen väljer en rörelse att följa.",
+    "discussion": "Att räfsa är att samla exempelvis hö med en räfsa. Gör rörelserna utan riktiga arbetsredskap."
+  },
+  "ekorren-satt-i-hogan-tall": {
+    "intro": "Ekorrens brådska och olika landningsplatser går att följa med en figur på bordet.",
+    "title": "Låt ekorren ta sig ner från trädet",
+    "preparation": "Rita ett träd, en sten och en rot.",
+    "steps": [
+      "För ett finger från trädet till stenen medan ni sjunger.",
+      "Flytta det vidare till roten vid nästa händelse.",
+      "Visa hur ekorren kan stanna upp och ta det lugnt efteråt."
+    ],
+    "adaptation": "Barnet kan peka på bilderna medan en vuxen sköter berättelsen.",
+    "discussion": "Högan tall betyder här en hög tall. Gestalta händelsen på papper i stället för att hoppa från möbler."
+  },
+  "ekorrn-satt-i-granen": {
+    "intro": "Den korta berättelsen om ekorren blir lätt att följa när händerna visar träd, kottar och svans.",
+    "title": "Berätta med händerna",
+    "preparation": "Sitt med händerna fria.",
+    "steps": [
+      "Håll ena armen som ett träd och låt fingrarna vara ekorren.",
+      "Låt ekorren skala en låtsaskotte.",
+      "Visa ett litet hopp med handen och avsluta med en svepande svansrörelse."
+    ],
+    "adaptation": "Låt barnet bara göra svansen medan en vuxen visar resten av berättelsen.",
+    "discussion": "En gren från en tall kallas tallegren i texten. Sången kan gestaltas helt sittande utan riktiga hopp."
+  },
+  "en-bonde-i-var-by": {
+    "intro": "Kedjan av personer och djur ger en möjlighet att minnas ordningen tillsammans.",
+    "title": "Bygg berättelsens kedja med bilder",
+    "preparation": "Rita enkla bilder av figurerna som nämns.",
+    "steps": [
+      "Lägg fram första bilden när ni börjar sjunga.",
+      "Lägg till nästa figur vid varje ny del.",
+      "Peka på hela kedjan och återberätta ordningen efteråt."
+    ],
+    "adaptation": "Låt barnen välja bild i stället för att ge dem personroller som familjemedlemmar.",
+    "discussion": "Texten beskriver en viss familjeuppställning. Använd bilderna som berättelsefigurer utan att förutsätta att alla familjer ser likadana ut."
+  },
+  "en-elefant-balanserade": {
+    "intro": "Varje ny elefant gör gruppen större. Prova att synliggöra ökningen på bordet i stället för att balansera på riktigt.",
+    "title": "Samla elefanterna en i taget",
+    "preparation": "Rita en linje och välj några klossar som elefanter.",
+    "steps": [
+      "Ställ en kloss på linjen när sången börjar.",
+      "Lägg till en kloss för varje ny vers.",
+      "Räkna tillsammans och välj ett slut innan ni börjar om."
+    ],
+    "adaptation": "Använd fingrar i stället för klossar och stanna vid det antal gruppen vill räkna till.",
+    "discussion": "Spindeltråden är en fantasibild. Ingen behöver balansera på något högt eller smalt för att delta."
+  },
+  "en-kulen-natt": {
+    "intro": "Båten, vågorna och fisken ger en kort rörelseberättelse som går att göra sittande.",
+    "title": "Styr en låtsasbåt",
+    "preparation": "Sitt med plats för armarna.",
+    "steps": [
+      "Håll händerna som en ratt medan ni sjunger om båten.",
+      "Gör vågor med ena handen när havet nämns.",
+      "Låt händerna bli en fisk som simmar framför er."
+    ],
+    "adaptation": "Låt olika deltagare välja båtens och fiskens rörelser mellan omgångarna.",
+    "discussion": "Kulen beskriver ruggigt och kyligt väder. De upprepade ljuden kan först sägas långsamt innan ni sjunger dem."
+  },
+  "en-liten-bat": {
+    "intro": "Frågorna om båten och fiskarnas viskningar gör sången till en liten berättelse med förväntan inför nästa del.",
+    "title": "Följ båten ner mot skatten",
+    "preparation": "Rita en vattenyta och en havsbotten.",
+    "steps": [
+      "Låt handen vara båten ovanför vattenytan.",
+      "Låt två fingrar föreställa fiskarna under båten.",
+      "Rita vad ni tror finns i skatten när sången har slutat."
+    ],
+    "adaptation": "Berätta bara första delen om ni vill ha en kortare stund och spara skatten till nästa gång.",
+    "discussion": "Böljan betyder vågen eller vattnet. Sångens frågor kan ni besvara med egna fantasier utan ett facit."
+  },
+  "en-sockerbagare": {
+    "intro": "Bagarens stora och små kakor ger ett tydligt tema för en låtsasbutik och en stund om former.",
+    "title": "Öppna ett bageri av papper",
+    "preparation": "Rita några kakor i olika storlekar.",
+    "steps": [
+      "Sjung och lägg kakbilderna i ett låtsasfönster.",
+      "Låt barnet välja en stor och en liten kaka.",
+      "Byt roller så att båda får vara bagare och kund."
+    ],
+    "adaptation": "Forma kakorna med händerna om ni saknar ritmaterial.",
+    "discussion": "En sockerbagare bakar söta bakverk. I er lek kan alla få handla; textens slut behöver inte användas för att bedöma barnens beteende."
+  },
+  "en-till-som-jag": {
+    "intro": "Idén om en till person som är precis lik en själv öppnar för fantasi och samtal om sällskap.",
+    "title": "Rita en påhittad dubbelgångare",
+    "preparation": "Välj papper och kritor.",
+    "steps": [
+      "Sjung en del och rita två figurer som liknar varandra.",
+      "Låt barnet hitta på vad figurerna gör tillsammans.",
+      "Rita en sak de tycker olika om, trots att de ser lika ut."
+    ],
+    "adaptation": "Berätta med två leksaksfigurer om barnet hellre pratar än ritar.",
+    "discussion": "Fråga vad som vore roligt och vad som kunde bli knepigt med en dubbelgångare. Det finns inga rätta svar."
+  },
+  "ett-gammalt-fult-och-elakt-troll": {
+    "intro": "Trollets orimliga storlek och de många ortnamnen gör visan till en lek med överdrifter.",
+    "title": "Rita ett troll som inte får plats",
+    "preparation": "Ta fram ett stort papper eller lägg flera bredvid varandra.",
+    "steps": [
+      "Sjung och börja rita trollets huvud i ena kanten.",
+      "Låt kroppen fortsätta över papperet.",
+      "Hitta på något vardagligt som blir för litet för jättetrollet."
+    ],
+    "adaptation": "Använd klossar för att bygga en stol åt det påhittade trollet.",
+    "discussion": "Överdrifterna är fantasier, inte en karta i rätt skala. Skilj också mellan hur någon ser ut och hur någon beter sig."
+  },
+  "ett-tva-sta-pa-ta": {
+    "intro": "Talparen och rimmen ger många rörelser att välja mellan. Prova en variant där allt görs lugnt på plats.",
+    "title": "Gör en räknande rörelseföljd",
+    "preparation": "Välj de första talparen och visa rörelserna innan ni börjar.",
+    "steps": [
+      "Säg ett talpar i taget och markera med fingrarna.",
+      "Gör en liten gest som passar rimmet.",
+      "Pausa och låt gruppen minnas vilken rörelse som kom först."
+    ],
+    "adaptation": "Ta bara talen ett till sex till en början och fyll på en annan gång.",
+    "discussion": "Gestalta textens handlingar med händerna. Slå inte näsan i golvet och använd inga riktiga verktyg."
+  },
+  "fageln-i-parontrad": {
+    "intro": "Fågelns uppmaning och svaret den får kan bli ett samtal om att säga emot när någon föreslår något som gör ont.",
+    "title": "Ge fågeln ett nytt svar",
+    "preparation": "Rita en fågel och ett päronträd.",
+    "steps": [
+      "Sjung eller läs texten tillsammans.",
+      "Stanna vid svaret till fågeln och prata om varför det behövs.",
+      "Låt barnet hitta på något vänligt som fågeln kan föreslå i stället."
+    ],
+    "adaptation": "Använd två pappersfigurer för att visa samtalet, utan att någon spelar ett utsatt barn.",
+    "discussion": "Texten nämner kroppslig bestraffning och säger emot den. Förklara enkelt att vuxna inte får slå barn."
+  },
+  "fattig-man-star-pa-strand": {
+    "intro": "Textens tomma hand och löften om olika färder ger stoff för ett samtal om att be om hjälp.",
+    "title": "Låt handen be och få ett svar",
+    "preparation": "Använd två leksaksfigurer på ett bord.",
+    "steps": [
+      "Läs eller sjung och låt en figur sträcka fram handen.",
+      "Prata om vad figuren kan behöva.",
+      "Låt den andra figuren föreslå ett hjälpsamt svar utan krav på belöning."
+    ],
+    "adaptation": "Rita en trygg fortsättning på berättelsen i stället för att spela den.",
+    "discussion": "De hårda handlingarna i texten behöver inte utföras i leken. Prata om att hjälpa utan att hota eller skada någon."
+  },
+  "fem-sma-apor": {
+    "intro": "En apa färre i varje vers gör sången lätt att följa med fingrar eller bilder.",
+    "title": "Räkna ner med apbilder",
+    "preparation": "Rita fem små apor eller använd fem fingrar.",
+    "steps": [
+      "Visa alla fem när ni börjar sjunga.",
+      "Vik ner ett finger eller flytta undan en bild efter varje vers.",
+      "Räkna tillsammans hur många som är kvar före nästa vers."
+    ],
+    "adaptation": "Börja med tre apor om fem verser blir för långt.",
+    "discussion": "Sångens händelser kan visas på bordet. Hoppa inte i sängar och spela inte upp fallen med kroppen."
+  },
+  "flickorna-och-bjornen": {
+    "intro": "Mötet i skogen innehåller ett hotfullt inslag. Gör det till en berättelsestund där barnet får styra avståndet till björnen.",
+    "title": "Rita ett tryggt slut på skogsturen",
+    "preparation": "Ta fram papper eller leksaksfigurer.",
+    "steps": [
+      "Läs igenom texten och fråga om barnet vill höra den.",
+      "Visa mötet med figurer på bordet.",
+      "Låt barnet hitta på hur personerna tar sig till en trygg plats."
+    ],
+    "adaptation": "Stanna vid en teckning av skogen om barnet inte vill spela upp mötet.",
+    "discussion": "Undvik överraskningar, jagande och hot mot deltagarna. Välj en annan visa om björnen känns för skrämmande."
+  },
+  "gasa-gasa-klinga": {
+    "intro": "Färden till en fantasiplats låter olika personer spela och leka. Följ resan med egna ljud och bilder.",
+    "title": "Res till den påhittade lunden",
+    "preparation": "Välj ett papper som karta över fantasilandet.",
+    "steps": [
+      "Sjung och låt händerna bli vingar.",
+      "Rita platsen ni flyger till.",
+      "Låt var och en göra ett kort ljud till ett instrument som nämns."
+    ],
+    "adaptation": "Gör bara flygturen och ett instrument om ni vill hålla stunden kort.",
+    "discussion": "Län betyder här låna. Dräng och piga är äldre ord för personer som arbetade på gårdar."
+  },
+  "gasen-och-raven": {
+    "intro": "De tydliga frågorna och svaren passar för att pröva två berättarröster utan att göra en jaktlek.",
+    "title": "Spela dialogen på bordet",
+    "preparation": "Rita en gås och en räv på varsitt papper.",
+    "steps": [
+      "Låt en vuxen läsa rävens svar.",
+      "Låt barnet eller en annan vuxen läsa gåsens frågor.",
+      "Avsluta med att hitta på hur gåsen kan gå därifrån."
+    ],
+    "adaptation": "En vuxen kan göra båda rösterna medan barnet flyttar gåsbilden.",
+    "discussion": "Rävens avsikt kan kännas otäck. Håll rollerna hos bilderna och låt barnet välja att avbryta."
+  },
+  "ge-mig-mera-kottbullar": {
+    "intro": "Maträtterna och upprepningarna ger ett tema för att sjunga, minnas ordning och låtsas laga mat.",
+    "title": "Gör en låtsasmeny",
+    "preparation": "Ta fram papper och rita några maträtter från sången.",
+    "steps": [
+      "Sjung en del och peka på rätt maträtt.",
+      "Lägg bilderna i den ordning de nämns.",
+      "Låt en deltagare vara kund och beställa med en vänlig fråga efter sången."
+    ],
+    "adaptation": "Använd tomma tallrikar som låtsasmat om ni vill slippa rita.",
+    "discussion": "Ni behöver inte äta eller smaka för att delta. Prata gärna om skillnaden mellan sångens ivriga rop och en vanlig beställning."
+  },
+  "goder-afton": {
+    "intro": "Den korta julhälsningen kan användas för att öva på en gemensam början och ett lugnt avslut.",
+    "title": "Sjung en hälsning tillsammans",
+    "preparation": "Bestäm vem ni vill hälsa på, till exempel ett mjukdjur.",
+    "steps": [
+      "Andas in lugnt och börja på en gemensam gest.",
+      "Sjung hälsningen och vänd er mot mottagaren.",
+      "Avsluta tillsammans och låt någon annan leda nästa start."
+    ],
+    "adaptation": "Sjung sittande eller skicka hälsningen mellan två små grupper.",
+    "discussion": "Goder afton är en äldre hälsning som betyder god kväll. Fröjdefull betyder glad och glädjerik."
+  },
+  "grisevisan": {
+    "intro": "Berättarens olika ljud och grisens svar gör det lätt att turas om och lyssna efter skillnader.",
+    "title": "Låt grisen svara på musiken",
+    "preparation": "Välj en leksaksgris eller gör en grisnäsa med handen.",
+    "steps": [
+      "Sjung en vers och låt grisen lyssna.",
+      "Gör ett mjukt grisljud som svar efter versen.",
+      "Prova nästa sätt att låta och jämför grisens reaktion."
+    ],
+    "adaptation": "Den som inte vill vissla kan nynna eller forma ljudet med läpparna utan ton.",
+    "discussion": "Prata om vad som skiljer att tralla från att vissla. Det viktiga är variationen, inte att kunna göra alla ljud."
+  },
+  "gubben-noak": {
+    "intro": "Arken och planteringen ger tydliga bilder, men texten innehåller också vin. Välj sammanhang efter vilka som lyssnar.",
+    "title": "Rita berättelsens två platser",
+    "preparation": "Ta fram papper med plats för både båt och land.",
+    "steps": [
+      "Sjung och rita arken.",
+      "Rita marken där planteringen sker.",
+      "Låt barnet visa hur berättelsen flyttar sig från vattnet till land."
+    ],
+    "adaptation": "Gör båten av händerna om ni hellre vill gestalta än rita.",
+    "discussion": "En ark är en stor båt i berättelsen. Läs texten i förväg och avgör hur omnämnandet av vin passar er sångstund."
+  },
+  "gubben-och-gumman-satt-och-drog": {
+    "intro": "Rovan blir en gemensam uppgift där fler och fler figurer hjälper till. Synliggör samarbetet utan att dra i varandra.",
+    "title": "Hjälp till med låtsasrovan",
+    "preparation": "Rita en rova och lägg den på bordet.",
+    "steps": [
+      "Låt två fingrar föreställa de första hjälparna.",
+      "Lägg till en ritad figur vid varje ny del.",
+      "Gör en gemensam dragrörelse i luften när alla figurer är på plats."
+    ],
+    "adaptation": "Använd klossar som hjälpare och räkna hur många de blir.",
+    "discussion": "En rova är en rotfrukt. Dra inte i händer, kläder eller kroppar; berättelsen fungerar med lösa pappersfigurer."
+  },
+  "gunga-fram-min-lilla-bat": {
+    "intro": "Båten söker en hamn genom ett bildrikt havslandskap. Sången kan följas med små rörelser och ett samtal om ord.",
+    "title": "Följ båten mot en ritad hamn",
+    "preparation": "Rita en båt och en hamn med en stjärna ovanför.",
+    "steps": [
+      "Sjung en del och för fingret längs båtens väg.",
+      "Gunga handen försiktigt som vågor.",
+      "Låt båten stanna i hamnen när ni avslutar."
+    ],
+    "adaptation": "Nynna melodin utan rörelser om texten känns för tung för stunden.",
+    "discussion": "Texten innehåller bilder av död och ett liv bortom havet. Läs den först och välj om den passar dem som ska lyssna."
+  },
+  "har-dansar-herr-gurka": {
+    "intro": "De två gröna figurerna ger en enkel utgångspunkt för en dans där ni speglar varandras rörelser.",
+    "title": "Låt två gurkor dansa",
+    "preparation": "Rita två gurkfigurer eller låt pekfingrarna föreställa dem.",
+    "steps": [
+      "Sjung och för figurerna från sida till sida.",
+      "Låt ena figuren visa en rörelse och den andra härma.",
+      "Byt vem som leder nästa omgång."
+    ],
+    "adaptation": "Två deltagare kan spegla varandra sittande med händerna, utan att kunna dansstegen som nämns.",
+    "discussion": "Vals och mazurka är namn på danser. Er egen rörelselek behöver inte föreställa de dansernas verkliga steg."
+  },
+  "har-kommer-lilla-ludde": {
+    "intro": "Kudden och de återkommande svaren ger visan en tydlig växling mellan berättande och gemensam sång.",
+    "title": "Låt kudden följa berättelsen",
+    "preparation": "Lägg en kudde på golvet eller bordet.",
+    "steps": [
+      "En person sjunger berättardelen.",
+      "Alla som vill deltar i det återkommande svaret.",
+      "Flytta kudden till en ny plats mellan omgångarna och byt berättare."
+    ],
+    "adaptation": "Använd en ritad kudde om det passar bättre att sitta vid bordet.",
+    "discussion": "Prata om vad det betyder att bära detsamma. Ingen behöver bära något tungt för att följa sången."
+  },
+  "hare-hare-heter-jag": {
+    "intro": "Haren presenterar sig och berättelsen ändrar sedan karaktär. Läs hela texten innan ni väljer aktivitet.",
+    "title": "Rita harens väg genom berättelsen",
+    "preparation": "Ta fram papper och kritor.",
+    "steps": [
+      "Rita harens skog och viloplats.",
+      "Läs eller sjung och följ hur platsen ändras.",
+      "Prata om varför slutet skiljer sig från början."
+    ],
+    "adaptation": "För yngre barn kan ni välja en annan harvisa om hela berättelsen känns för svår.",
+    "discussion": "Slutet handlar om haren som mat och kan väcka frågor om jakt och död. Gör inte den delen till en fysisk lek."
+  },
+  "hej-sa-petronella": {
+    "intro": "Regn, paraply och en orimlig båtfärd ger gott om plats för en gemensam fantasiresa.",
+    "title": "Segla i en låtsasgalosch",
+    "preparation": "Rita ett paraply och en stor sko som båt.",
+    "steps": [
+      "Sjung och öppna ett låtsasparaply med händerna.",
+      "Låt fingrarna promenera genom regnet.",
+      "Flytta dem till skobåten och hitta på vart resan går."
+    ],
+    "adaptation": "Gör regnet med fingertoppar mot bordet medan en annan deltagare sköter båten.",
+    "discussion": "En galosch är en skyddssko som bärs utanpå en annan sko. Sångens seglats är fantasi."
+  },
+  "hej-tomtegubbar": {
+    "intro": "Den livliga hälsningen kan sjungas med enkla rytmrörelser. Läs också de vuxnare inslagen i texten före sångstunden.",
+    "title": "Markera pulsen utan rekvisita",
+    "preparation": "Sitt eller stå med händerna fria.",
+    "steps": [
+      "Sjung medan händerna klappar mjukt mot knäna.",
+      "Byt till en vinkning när hälsningen återkommer.",
+      "Låt nästa ledare välja en ny rytmrörelse."
+    ],
+    "adaptation": "Gör rörelserna tyst om flera röster annars får svårt att höras.",
+    "discussion": "Texten nämner glas och livets besvär. Bedöm om den passar tillfället; ni behöver inga drycker eller glas i aktiviteten."
+  },
+  "hjulen-pa-bussen": {
+    "intro": "Bussens delar och passagerare gör det lätt att koppla varje vers till en egen rörelse.",
+    "title": "Gör en bussresa på plats",
+    "preparation": "Sitt på stolar eller i en ring.",
+    "steps": [
+      "Rulla händerna som hjul i första versen.",
+      "Visa dörrarna med armar som öppnas och stängs.",
+      "Låt deltagarna välja en ny busshändelse mellan verserna."
+    ],
+    "adaptation": "Gör alla rörelser små och sittande, eller låt en person sjunga medan andra visar.",
+    "discussion": "Skilj på det som finns i den tryckta texten och egna versidéer. Ni kan hitta på nya händelser som en separat lek."
+  },
+  "hoga-berg-och-djupa-dalar": {
+    "intro": "Kontrasterna mellan högt och djupt går att visa med kroppen även utan en pardans.",
+    "title": "Visa landskapet i dansen",
+    "preparation": "Stå på egna platser eller sitt med fria armar.",
+    "steps": [
+      "Sträck händerna uppåt för bergen.",
+      "För dem neråt för dalarna medan ni sjunger.",
+      "Avsluta med en liten vändning eller en cirkel med händerna."
+    ],
+    "adaptation": "Låt deltagarna spegla en ledare i stället för att välja danspartner.",
+    "discussion": "Sockertopp används här som ett vänligt tilltal. Alla kan dansa på sitt sätt utan att behöva hålla någon i handen."
+  },
+  "hok-och-duva": {
+    "intro": "Duvans plats och hökens kretsande kan bli en stillsam berättelselek med två figurer.",
+    "title": "Låt fåglarna röra sig på papper",
+    "preparation": "Rita en ring och välj två pappersfåglar.",
+    "steps": [
+      "Lägg duvan i ringen.",
+      "För höken runt ringens utsida medan ni sjunger.",
+      "Byt vem som flyttar figurerna när sången är slut."
+    ],
+    "adaptation": "Gör fåglarna med händerna över bordet i stället för att använda bilder.",
+    "discussion": "Den här varianten är ingen jaktlek. Låt duvan ha sin plats och undvik att någon deltagare blir jagad eller infångad."
+  },
+  "honsen-och-raven": {
+    "intro": "Hönornas och rävens olika rörelser gör berättelsen lätt att följa med händerna.",
+    "title": "Visa hönor och räv i en bildhage",
+    "preparation": "Rita en hage och några fåglar.",
+    "steps": [
+      "Sjung och låt fingrarna vara hönor som går i hagen.",
+      "Visa rävens svans med andra handen utanför bilden.",
+      "Berätta efter sången hur hönorna kan komma till ro."
+    ],
+    "adaptation": "Låt en vuxen visa räven och barnet bara följa hönorna om mötet känns spännande.",
+    "discussion": "Gestalta förföljandet med figurer, utan jakt eller knuffar mellan barnen."
+  },
+  "i-dala-dalaskog": {
+    "intro": "Inbjudan till dans kan bli en gemensam rörelselek där alla får delta utan att behöva välja en särskild partner.",
+    "title": "Skicka en dansinbjudan runt ringen",
+    "preparation": "Sitt eller stå i ring.",
+    "steps": [
+      "Sjung medan en ledare gör en enkel handrörelse.",
+      "Låt ledaren vinka till nästa person som tar över rörelsen.",
+      "Fortsätt tills alla som vill har lett en omgång."
+    ],
+    "adaptation": "Behåll samma ledare om gruppen behöver mer tid att lära sig melodin.",
+    "discussion": "Texten nämner vals och bröllop. Er lek kan handla om att bjuda in en vän utan att deltagarna spelar ett brudpar."
+  },
+  "i-ett-hus-vid-skogens-slut": {
+    "intro": "Huset, knackningen och hjälpen ger tydliga gester. Prova en variant där det trygga mottagandet får stå i centrum.",
+    "title": "Öppna dörren åt låtsasharen",
+    "preparation": "Visa först hur händerna kan bilda tak, öron och dörr.",
+    "steps": [
+      "Sjung och forma husets tak över huvudet.",
+      "Låt två fingrar knacka när haren kommer.",
+      "Öppna händerna som en dörr och hälsa haren välkommen."
+    ],
+    "adaptation": "Använd pappersfigurer om barnet hellre vill följa berättelsen än göra rörelser.",
+    "discussion": "Jägaren och hotet kan kännas otäcka. Läs texten först och låt barnet välja om det vill sjunga just denna visa."
+  },
+  "i-natt-jag-dromde": {
+    "intro": "Drömmen om fred kan bli en stillsam samtalsstund om hur en trygg plats skulle se ut.",
+    "title": "Rita en fredlig dröm",
+    "preparation": "Ta fram papper och färger.",
+    "steps": [
+      "Sjung eller lyssna på en del av sången.",
+      "Rita en plats där alla får känna sig trygga.",
+      "Låt barnet berätta om en detalj i bilden om det vill."
+    ],
+    "adaptation": "Använd en påhittad stad med leksaksfigurer om de stora frågorna blir svåra.",
+    "discussion": "Krig och vapen nämns i texten. Följ barnets frågor och undvik att kräva berättelser om egna svåra erfarenheter."
+  },
+  "idas-sommarvisa": {
+    "intro": "Berättaren sätter fart på naturen i fantasin. Använd bilderna till att upptäcka sommartecken och skilja dikt från verklighet.",
+    "title": "Skapa en egen sommarbild",
+    "preparation": "Ta fram papper eller titta ut genom ett fönster.",
+    "steps": [
+      "Sjung en vers och välj en naturdetalj ur den.",
+      "Rita detaljen eller leta efter något liknande utanför.",
+      "Låt barnet lägga till ett eget sommartecken och berätta om det."
+    ],
+    "adaptation": "Gör en gemensam bild där varje deltagare bidrar med en växt eller ett djur.",
+    "discussion": "Sångens berättare får naturen att förändras. Prata om det som ett poetiskt sätt att berätta, inte som en naturförklaring."
+  },
+  "imse-vimse-spindel": {
+    "intro": "Spindel, regn och sol bildar en kort händelsekedja som går att följa med tre enkla rörelser.",
+    "title": "Visa spindelns väg med händerna",
+    "preparation": "Prova först en rörelse för spindeln, regnet och solen.",
+    "steps": [
+      "Låt fingrarna klättra uppåt när spindeln klättrar.",
+      "För händerna neråt som regn.",
+      "Gör en stor sol med armarna och låt spindeln klättra igen."
+    ],
+    "adaptation": "Två fingrar kan promenera på bordet om spindelrörelsen med båda händerna känns svår.",
+    "discussion": "Prata efteråt om ordningen: vad kom först och vad hände sedan? Låt barnet visa i stället för att behöva svara med ord."
+  },
+  "isidors-visa": {
+    "intro": "Frågor om morgondagen och mammans svar gör sången lämplig för två röster och en lugn bildstund.",
+    "title": "Sjung frågan och visa svaret",
+    "preparation": "Rita hav, isberg och en säl på ett papper.",
+    "steps": [
+      "En vuxen sjunger uppmaningen och svaret.",
+      "En annan deltagare får sjunga eller säga frågan.",
+      "Peka på bilderna som nämns och avsluta med vila."
+    ],
+    "adaptation": "Låt barnet bara peka på bilderna medan en vuxen gör båda rösterna.",
+    "discussion": "Sången är en berättelse om djur och förväntan. Ni behöver inte göra varje löfte i texten till något barnet själv ska få uppleva."
+  },
+  "jag-har-en-ang": {
+    "intro": "Ängen och den vidare fantasifärden kan bli en karta där ni följer hur berättelsen byter plats.",
+    "title": "Rita en äng som blir en resa",
+    "preparation": "Ta fram ett stort papper och kritor.",
+    "steps": [
+      "Rita ängen och korna medan ni sjunger första delen.",
+      "Lägg till vatten och båtar när berättelsen går vidare.",
+      "Låt barnet visa hur man färdas mellan platserna."
+    ],
+    "adaptation": "Stanna vid ängen och gör ett gemensamt gökläte om ni vill ha en kortare stund.",
+    "discussion": "Att vinden mojnar betyder att den blir svagare. Jämför segling med att ro med åror eller händer i fantasin."
+  },
+  "jag-vill-ga-vall": {
+    "intro": "Getterna och dagen ute på marken ger en berättelse om att gå, vänta och komma hem igen.",
+    "title": "Följ getterna med pappersfigurer",
+    "preparation": "Rita några getter och en väg hem.",
+    "steps": [
+      "Sjung och flytta getterna långsamt längs vägen.",
+      "Låt fingrarna visa hur de stannar och äter.",
+      "Samla dem vid hemmet när ni avslutar."
+    ],
+    "adaptation": "Räkna getterna före och efter turen för en enkel minneslek.",
+    "discussion": "Att gå vall är att vakta djur som betar. Svång betyder här hungrig."
+  },
+  "jag-vill-ha-blommig-falukorv-till-lunch-mamma": {
+    "intro": "Sångens starka matåsikter och fantasirätt passar för att leka med en meny utan att någon behöver smaka.",
+    "title": "Rita en omöjlig lunchmeny",
+    "preparation": "Ta fram papper och kritor.",
+    "steps": [
+      "Sjung en del och rita den påhittade korven.",
+      "Låt barnet hitta på ännu en fantasirätt.",
+      "Ge rätterna namn och låtsas beställa dem av varandra."
+    ],
+    "adaptation": "Använd former och färger i stället för riktiga maträtter om gruppen föredrar det.",
+    "discussion": "Skilj sångens överdrifter från matbordets samtal. Barnen behöver inte redovisa vad de tycker om eller ogillar att äta."
+  },
+  "john-blund": {
+    "intro": "Sången rör sig från samling och saga till god natt. Använd ordningen som en lugn ram.",
+    "title": "Låt en kort saga följas av sång",
+    "preparation": "Välj en kort berättelse och en bekväm plats.",
+    "steps": [
+      "Läs eller berätta sagan först.",
+      "Sjung sedan sången i ett lugnt tempo.",
+      "Avsluta med en godnatthälsning utan att börja en ny lek."
+    ],
+    "adaptation": "Välj bara en del av sången om barnet redan är sömnigt.",
+    "discussion": "John Blund är en fantasifigur i sången. Den angivna tiden behöver inte vara en regel för när just ert barn ska somna."
+  },
+  "kalle-teodor": {
+    "intro": "Sjömannen och stormen ger en stämningsfull men sorglig berättelse. Välj sången med omsorg utifrån vilka som lyssnar.",
+    "title": "Rita havets olika stämningar",
+    "preparation": "Ta fram två papper och färger.",
+    "steps": [
+      "Lyssna på eller sjung en del av sången.",
+      "Rita ett lugnt hav på ena papperet och ett stormigt på det andra.",
+      "Prata om hur musiken och berättelsen skiljer sig från en glad sjöresa."
+    ],
+    "adaptation": "En vuxen kan nynna melodin om ni vill stanna vid stämningen utan hela berättelsen.",
+    "discussion": "Att gå i kvav betyder att förlisa eller sjunka. Texten handlar om död; ge utrymme för frågor eller välj en annan sång."
+  },
+  "katten-lag-under-banken": {
+    "intro": "Kattens klagan och råttornas reaktion går att gestalta med små figurer och prata om efteråt.",
+    "title": "Ge råttorna en annan fortsättning",
+    "preparation": "Rita en katt och två råttor.",
+    "steps": [
+      "Läs eller sjung texten och håll figurerna på bordet.",
+      "Fråga vad råttorna tror ska hända.",
+      "Låt barnet hitta på ett slut där någon hjälper katten."
+    ],
+    "adaptation": "En vuxen kan återberätta i stället för att dela ut roller till deltagarna.",
+    "discussion": "Texten nämner döden och råttornas glädje åt kattens olycka. Prata om skillnaden mellan rädsla för någon och omtanke om den som mår dåligt."
+  },
+  "katten-och-killingen": {
+    "intro": "Bråket om maten ger en liten berättelse att följa med bilder och ett tillfälle att fundera på andra lösningar.",
+    "title": "Lös bråket med två figurer",
+    "preparation": "Rita en katt, en killing och en skål.",
+    "steps": [
+      "Läs eller sjung och låt figurerna stå bredvid skålen.",
+      "Stanna innan bråket spelas upp.",
+      "Låt barnet visa hur figurerna kan dela eller turas om."
+    ],
+    "adaptation": "Berätta hela händelsen först och rita en vänligare fortsättning efteråt.",
+    "discussion": "En killing är en getunge. Använd ingen varm mat och gestalta inte slag eller brännskador med deltagarna."
+  },
+  "klappa-handerna": {
+    "intro": "Varje vers föreslår en ny rörelse. Låt gruppen välja sådant som alla kan göra på sitt eget sätt.",
+    "title": "Välj rörelse för nästa vers",
+    "preparation": "Sitt eller stå så att ledarens händer syns.",
+    "steps": [
+      "Börja med mjuka handklappar medan ni sjunger.",
+      "Byt till nästa rörelse vid versbytet.",
+      "Låt en deltagare föreslå en rörelse till nästa omgång."
+    ],
+    "adaptation": "Byt fingerknäppning mot fingertoppar mot knät om den är svår att göra.",
+    "discussion": "Man får vara med utan att känna sig glad. Sångens känsla behöver inte vara ett krav på deltagarnas humör."
+  },
+  "klara-solen-pa-himmelen-den-lyser": {
+    "intro": "Sol, fruset vatten och en bröllopsberättelse ger flera scener att gestalta med bilder.",
+    "title": "Visa hur sångens scen ändras",
+    "preparation": "Rita sol, vatten och några personer.",
+    "steps": [
+      "Sjung och peka först på solen.",
+      "Låt handen bli stilla när vattnet fryser.",
+      "Flytta sedan personbilderna när berättelsen handlar om människor."
+    ],
+    "adaptation": "Välj bara naturdelen till en kort rörelsestund och läs resten vid ett annat tillfälle.",
+    "discussion": "Texten använder äldre roller och uttrycket att nappas. Ni kan prata om orden utan att dra i varandra eller spela ett bröllop."
+  },
+  "klattermusens-vaggvisa": {
+    "intro": "Djurens vila kan följas med en liten sovscen där alla får komma till ro i sin egen takt.",
+    "title": "Låt skogens figurer vila",
+    "preparation": "Välj några leksaksdjur eller rita dem.",
+    "steps": [
+      "Sjung och lägg figurerna bredvid varandra på bordet.",
+      "Visa rävens svans med en böjd hand.",
+      "Låt händer och figurer bli stilla när sången slutar."
+    ],
+    "adaptation": "Barnet kan bara lyssna medan en vuxen ordnar scenen. En enda figur räcker.",
+    "discussion": "Palt kan betyda harunge och används också som tilltal. Här är vila en möjlighet, inte en tävling i att somna."
+  },
+  "kolina-kolina": {
+    "intro": "Önskan om solsken och barnen i skogen ger en kort berättelse om väder och att hitta hem.",
+    "title": "Rita vägen från skogen",
+    "preparation": "Ta fram papper och gul och grön krita.",
+    "steps": [
+      "Säg eller sjung texten och rita skogen.",
+      "Lägg till solen när den nämns.",
+      "Rita en tydlig väg till ett hem och låt fingret följa den."
+    ],
+    "adaptation": "Låt en vuxen rita vägen medan barnet gör en sol med händerna.",
+    "discussion": "Fä betyder boskap. Textens barn har gått vilse; prata lugnt om hur en vuxen kan hjälpa i berättelsen."
+  },
+  "kom-ska-du-fa-en-svang": {
+    "intro": "Visans inbjudningar kan bli en turlek där en rörelse går runt gruppen och sedan byter form.",
+    "title": "Skicka en sväng vidare",
+    "preparation": "Gör en ring där alla har utrymme för armarna.",
+    "steps": [
+      "Låt ledaren visa en liten cirkel med händerna.",
+      "Skicka rörelsen vidare till nästa person medan ni sjunger.",
+      "När sången börjar om får nästa ledare välja en ny rörelse."
+    ],
+    "adaptation": "Sitt kvar och gör svängen med ett finger om större rörelser inte passar.",
+    "discussion": "Ånyo betyder på nytt. Ni kan bjuda in med en vinkning i stället för att ta tag i en danspartner."
+  },
+  "krakel-spektakel": {
+    "intro": "Gardinen och de lekfulla namnen ger en fantasibild som går att gestalta utan att klättra eller hänga i något.",
+    "title": "Låt en ritad figur gunga",
+    "preparation": "Rita en figur och en blå gardin på papper.",
+    "steps": [
+      "Sjung och för figuren från sida till sida på bordet.",
+      "Stanna vid frågan och låt barnet hitta på ett svar.",
+      "Byt vem som för figuren nästa omgång."
+    ],
+    "adaptation": "Låt ett finger vara figuren om ni vill börja utan förberedelser.",
+    "discussion": "Sångens gardin är en fantasiplats. Häng inte i riktiga gardiner; pappersfiguren kan göra hela rörelsen."
+  },
+  "kristallen-den-fina": {
+    "intro": "Kristall, stjärnor och blommor används som bilder för känslor. Sången passar för lyssnande och bildskapande.",
+    "title": "Rita en känsla ur sången",
+    "preparation": "Ta fram papper och välj en kort del att sjunga.",
+    "steps": [
+      "Lyssna efter en bild som stjärnan eller blomman.",
+      "Rita bilden med valfria färger.",
+      "Berätta vilken stämning ni tycker att den ger sången."
+    ],
+    "adaptation": "En vuxen kan nynna melodin medan barnet väljer färger, utan att behöva förklara dem.",
+    "discussion": "Käresta betyder någon man är kär i. Bildspråket beskriver känslor och behöver inte tolkas bokstavligt."
+  },
+  "kulldansen": {
+    "intro": "Den återkommande rytmen kan bli en dans där alla gör samma rörelse utan att någon måste välja partner.",
+    "title": "Bygg en dans med två rörelser",
+    "preparation": "Välj en handrörelse och ett lugnt steg på plats.",
+    "steps": [
+      "Sjung första delen med steget.",
+      "Byt till handrörelsen i den upprepade delen.",
+      "Låt en ny ledare välja nästa kombination."
+    ],
+    "adaptation": "Gör båda delarna sittande genom att växla mellan klapp och cirkel med händerna.",
+    "discussion": "Utgå från frivilligt deltagande. Textens fråga behöver inte bli en situation där någon måste tacka ja eller riskera att väljas bort."
+  },
+  "kung-orre": {
+    "intro": "Mössan, resan och festen ger flera bilder att använda i en kort berättelselek.",
+    "title": "Hitta kungens låtsasmössa",
+    "preparation": "Rita en mössa, en gren och en figur.",
+    "steps": [
+      "Sjung och lägg mössan på den ritade grenen.",
+      "Låt figuren leta efter den.",
+      "Avsluta med att låta händerna spela på ett påhittat instrument till festen."
+    ],
+    "adaptation": "Låt barnet peka på mössan medan en vuxen sköter figuren.",
+    "discussion": "Gästabud betyder en fest med mat och gäster. De lekfulla ljudorden kan först sägas långsamt tillsammans."
+  },
+  "lasse-liten": {
+    "intro": "Den stora världen och den lilla personen ger en utgångspunkt för att prata om avstånd, hem och trygghet.",
+    "title": "Rita stort och litet",
+    "preparation": "Ta fram ett papper med plats för en liten figur.",
+    "steps": [
+      "Sjung och rita figuren i ett hörn.",
+      "Lägg till olika platser runt omkring.",
+      "Låt barnet välja en plats som känns hemtam eller spännande."
+    ],
+    "adaptation": "Använd leksaksfigurer och klossar om barnet hellre bygger än ritar.",
+    "discussion": "Sången innehåller religiösa föreställningar om skydd. Prata om dem som textens budskap, inte som ett löfte om att faror inte finns."
+  },
+  "lilla-elsa": {
+    "intro": "Beskrivningen av Elsa kan användas för att prata om hur man beskriver en person med mer än beteenden och utseende.",
+    "title": "Låt Elsa få en egen röst",
+    "preparation": "Rita Elsa eller använd en leksaksfigur.",
+    "steps": [
+      "Sjung eller läs visan.",
+      "Låt figuren berätta vad hon tycker om att göra.",
+      "Rita en aktivitet som hon själv har valt."
+    ],
+    "adaptation": "En vuxen kan ställa frågorna till figuren och barnet svara med en gest eller bild.",
+    "discussion": "Texten beskriver Elsa som glad och snäll. Prata om att samma person också får vara ledsen, arg eller trött."
+  },
+  "lilla-lasse": {
+    "intro": "Den borttappade båten och beskedet om var den finns ger en liten berättelse att följa med bilder.",
+    "title": "Hitta båten i vassen",
+    "preparation": "Rita en båt och några vassstrån på ett papper.",
+    "steps": [
+      "Låt båten vara delvis gömd bakom vassen.",
+      "Sjung och låt barnet leta med blicken.",
+      "Flytta fram bilden och berätta hur Lasse kan känna när båten hittas."
+    ],
+    "adaptation": "Göm båten helt synligt till en första omgång och öka svårigheten om barnet vill.",
+    "discussion": "Vass är höga strån som växer vid vatten. Gädda och braxen är fisknamn i berättelsen."
+  },
+  "lilla-snigel": {
+    "intro": "Snigelns långsamma färd och vädjan att vara försiktig kan bli en liten fingerlek med omtanke i centrum.",
+    "title": "Låt snigeln ta sig fram",
+    "preparation": "Lägg handen på bordet och välj en väg med fingret.",
+    "steps": [
+      "Sjung medan två fingrar går långsamt framåt.",
+      "Låt andra handen visa ett skyddande tak över snigeln.",
+      "Stanna och låt nästa person välja en ny väg."
+    ],
+    "adaptation": "Rita en slingrande väg att följa om ni vill göra leken längre.",
+    "discussion": "Texten uttrycker oro för snigeln. Låt rörelserna visa varsamhet och undvik att hota en deltagare som spelar snigel."
+  },
+  "lilla-ungen-min": {
+    "intro": "Den korta texten kan sjungas som en liten godnatthälsning där rösten och närheten får räcka.",
+    "title": "Gör en stillsam avslutning",
+    "preparation": "Sätt dig bekvämt nära barnet om det vill.",
+    "steps": [
+      "Sjung hela den korta versen en gång.",
+      "Låt händerna vila medan den sista tonen klingar ut.",
+      "Upprepa eller nynna bara om barnet vill fortsätta lyssna."
+    ],
+    "adaptation": "Låt barnet välja mellan att höra orden och att bara höra melodin.",
+    "discussion": "Siden är ett mjukt tyg som används som jämförelse i texten. Barnet behöver inte göra tumrörelsen som nämns för att vara med i sångstunden."
+  },
+  "lille-katt": {
+    "intro": "De korta verserna presenterar djur och familjefigurer med olika små händelser. Följ bytena med bilder.",
+    "title": "Lägg fram en bild för varje vers",
+    "preparation": "Rita några av djuren och personerna som nämns.",
+    "steps": [
+      "Välj en vers och visa motsvarande bild.",
+      "Sjung och gör en enkel gest till händelsen.",
+      "Låt barnet välja bild till nästa vers."
+    ],
+    "adaptation": "Sjung bara djurverserna om ni vill ha en kortare stund.",
+    "discussion": "Katta och koa är vardagliga ordformer för katten och kon. Förklara orden utan att göra en deltagares eget språk till något felaktigt."
+  },
+  "liten-pilt-och-gullvagnen": {
+    "intro": "Vagnen och det hårdhänta beteendet ger en berättelse att läsa och diskutera snarare än att härma med kroppen.",
+    "title": "Ge vagnsfärden en annan vändning",
+    "preparation": "Rita en vagn och en figur på papper.",
+    "steps": [
+      "Läs eller sjung och låt figuren stå vid vagnen.",
+      "Prata om hur andra kan känna inför handlingarna.",
+      "Rita ett slut där figuren väljer ett vänligare sätt att färdas."
+    ],
+    "adaptation": "Använd bara teckningar och berättande, utan redskap som föreställer piskor.",
+    "discussion": "Pilt betyder pojke och gull betyder guld. Textens slag är något att prata om, inte rörelser att utföra."
+  },
+  "lova-lova-lina": {
+    "intro": "Önskan om sol vandrar över människor, djur och landskap. Låt händerna följa den växande uppräkningen.",
+    "title": "Låt solen lysa över en gemensam bild",
+    "preparation": "Ta fram ett papper och en gul krita.",
+    "steps": [
+      "Rita solen medan ni säger eller sjunger början.",
+      "Lägg till en plats eller figur vid varje ny del.",
+      "Avsluta med en egen blomsteräng på bilden."
+    ],
+    "adaptation": "En vuxen kan rita medan barnet pekar ut var nästa sak ska hamna.",
+    "discussion": "Fä betyder boskap. Harv och plog är redskap för arbete på åkern; de kan visas som bilder."
+  },
+  "majas-visa-(nar-lillan-kom-till-jorden)": {
+    "intro": "Vårbilderna i berättelsen om Maja kan bli ett samtal om en årstid och ett namn.",
+    "title": "Rita Majas vårdag",
+    "preparation": "Ta fram papper och välj färger som passar våren.",
+    "steps": [
+      "Sjung en del och lyssna efter växter och fåglar.",
+      "Rita en av detaljerna runt en liten person.",
+      "Låt barnet lägga till något som hör till den egna favoritårstiden."
+    ],
+    "adaptation": "Gör en bild av en helt påhittad födelsedag om ni inte vill prata om den egna.",
+    "discussion": "Majas namn knyts till maj i berättelsen. Det betyder inte att alla namn kommer från månaden man föds i."
+  },
+  "midnatt-rader": {
+    "intro": "Tomtarnas små steg och nattliga bestyr ger en rörelselek med tydliga växlingar mellan tystnad och rytm.",
+    "title": "Låt fingertomtarna smyga fram",
+    "preparation": "Sitt vid ett bord eller håll händerna i knät.",
+    "steps": [
+      "Sjung lugnt och låt fingrarna vila i början.",
+      "Låt fingertopparna gå försiktigt när tomtarna kommer fram.",
+      "Markera den återkommande rytmen med lätta fingertoppsslag."
+    ],
+    "adaptation": "Gör en gemensam tomtescen av bilder medan en vuxen sjunger berättardelarna.",
+    "discussion": "Speja betyder att titta noga efter något. Sångens smygande går att visa på bordet utan att krypa under möbler."
+  },
+  "min-hatt-den-har-tre-kanter": {
+    "intro": "Hatten och de tre kanterna gör visan till en tydlig minneslek med gester och tysta luckor.",
+    "title": "Byt ut ett ord mot en gest",
+    "preparation": "Bestäm en gest för hatt och en för tre.",
+    "steps": [
+      "Sjung hela visan med båda gesterna.",
+      "Sjung igen men låt gesten ersätta ordet hatt.",
+      "Lägg till fler tysta ord först när gruppen vill prova."
+    ],
+    "adaptation": "Behåll orden och gör bara gesterna om tysta luckor blir svåra att följa.",
+    "discussion": "Rita gärna en triangel efteråt och räkna kanterna. Leken handlar om att minnas tillsammans, utan utslagning."
+  },
+  "mitt-lilla-barn": {
+    "intro": "Berättaren föreställer sig att själv bli vuxen och ha ett barn. Det öppnar för ett samtal om omsorg och fantasi.",
+    "title": "Rita något en vuxen kan hjälpa till med",
+    "preparation": "Ta fram papper och kritor.",
+    "steps": [
+      "Sjung en del och välj en omsorgshandling ur berättelsen.",
+      "Rita den som en vardagsscen.",
+      "Låt barnet föreslå ytterligare ett sätt att hjälpa någon liten."
+    ],
+    "adaptation": "Berätta om två påhittade figurer i stället för den egna familjen.",
+    "discussion": "Sången rymmer stora löften och överdrifter. Låt barnet fundera fritt utan att förvänta dig att det själv vill bli förälder."
+  },
+  "mors-lilla-lathund": {
+    "intro": "Berättarens uppskjutna arbete kan bli en lek om planering, pauser och skillnaden mellan ord och handling.",
+    "title": "Gör en plan för en påhittad dag",
+    "preparation": "Rita tre tomma rutor på ett papper.",
+    "steps": [
+      "Sjung och prata om vad personen tänker göra senare.",
+      "Rita en liten uppgift i första rutan och en paus i nästa.",
+      "Låt barnet välja hur dagen slutar i sista rutan."
+    ],
+    "adaptation": "Använd leksaksfigurer och bygg deras dagsplan på bordet.",
+    "discussion": "Lathund är här ett retfullt tilltal. Använd inte ordet som etikett på ett barn som behöver hjälp eller vila."
+  },
+  "mors-lilla-olle": {
+    "intro": "Olles möte med björnen ger en tydlig berättelse att följa och ett tillfälle att skilja saga från möten med vilda djur.",
+    "title": "Följ skogsturen med bilder",
+    "preparation": "Rita Olle, en bärkorg, en björn och en vuxen.",
+    "steps": [
+      "Sjung en vers och lägg fram bilden som hör till.",
+      "Flytta figurerna när mötet förändras.",
+      "Låt barnet återberätta slutet med hjälp av bilderna."
+    ],
+    "adaptation": "Läs en vers åt gången om hela berättelsen blir lång eller spännande.",
+    "discussion": "Olle misstar björnen för något annat. Prata om att riktiga vilda djur behöver avstånd och inte ska matas eller klappas."
+  },
+  "nar-jag-var-liten-och-inte-ville-sova": {
+    "intro": "Stugan av löv och maten i skogen ger en liten fantasiplats att bygga utan att lämna rummet.",
+    "title": "Bygg en stuga på papper",
+    "preparation": "Ta fram papper och rita eller klipp enkla lövformer.",
+    "steps": [
+      "Sjung och rita stugans väggar.",
+      "Lägg lövformer som tak över bilden.",
+      "Låt barnet berätta vad som skulle göra stugan ombonad."
+    ],
+    "adaptation": "Bygg stugan med klossar om ni hellre vill arbeta tredimensionellt.",
+    "discussion": "Stugan hör till sångens berättelse. Aktiviteten är en fantasilek, inte ett förslag att gå ensam ut i skogen när man inte kan sova."
+  },
+  "nar-mamma-var-liten": {
+    "intro": "Berättelsen om en vuxens barndom kan bli ett samtal om hur människor förändras och minns.",
+    "title": "Rita en vuxen som barn",
+    "preparation": "Välj en påhittad person eller någon som vill berätta om sin barndom.",
+    "steps": [
+      "Sjung en del och rita personen som liten.",
+      "Lägg till något personen kunde ha lekt med.",
+      "Jämför med vad barnet självt tycker om att leka."
+    ],
+    "adaptation": "Låt en leksaksfigur få en helt påhittad barndom om ni vill slippa personliga frågor.",
+    "discussion": "Texten kommenterar kropp och utseende. Styr gärna samtalet mot minnen och intressen i stället för att bedöma kroppar."
+  },
+  "nicko-ticko-tinn-och-jag": {
+    "intro": "Rymdresan och det märkliga instrumentet ger utrymme för egna bilder och påhittade ljud.",
+    "title": "Rita resans nästa planet",
+    "preparation": "Ta fram papper och välj ett ljud som ska vara raketens.",
+    "steps": [
+      "Sjung och gör raketljudet mjukt mellan delarna.",
+      "Rita platsen där resenärerna landar.",
+      "Hitta på ett instrument som finns där och visa hur det låter."
+    ],
+    "adaptation": "Gör bara ljuden med munnen eller händerna om ni vill leka utan papper.",
+    "discussion": "De märkliga namnen hör till fantasin. Låt barnets planet vara en egen fortsättning, inte en uppgift i att kunna fakta om rymden."
+  },
+  "nocturne": {
+    "intro": "Sångens nattbilder och närhet passar för en lyssningsstund där melodin får ta plats utan extra aktivitet.",
+    "title": "Lyssna efter nattens bilder",
+    "preparation": "Sätt er bekvämt och välj en del av sången.",
+    "steps": [
+      "Sjung eller nynna i ett tempo som känns bekvämt.",
+      "Låt händerna följa en långsam vågrörelse.",
+      "Avsluta med stilla händer och en kort tystnad."
+    ],
+    "adaptation": "Låt barnet bara lyssna, eller rita en nattbild vid ett annat tillfälle.",
+    "discussion": "Nocturne används om ett musikstycke med nattlig karaktär. Texten är bildrik och behöver inte förklaras rad för rad under vilostunden."
+  },
+  "nu-ar-det-jul-igen": {
+    "intro": "Upprepningen och vändningen om påsken passar för en gemensam rörelseföljd som kan göras helt på plats.",
+    "title": "Vänd rörelsen när berättelsen vänder",
+    "preparation": "Välj två enkla rörelser som alla kan se.",
+    "steps": [
+      "Rulla händerna åt ena hållet i första delen.",
+      "Byt håll när sången säger emot den första uppgiften.",
+      "Låt nästa ledare välja två andra rörelser."
+    ],
+    "adaptation": "Gör en lugn promenad i stället om ni har en fri yta utan hinder.",
+    "discussion": "Påska är en äldre form av påsk. Fasta är perioden som texten placerar mellan jul och påsk; sångens tidsbild kan ni prata om efteråt."
+  },
+  "nu-i-ro-slumra-in-i-badden-sa-fin-brahms-vaggvisa": {
+    "intro": "De lugna fraserna och nattbilderna kan ge en återkommande avslutning på dagen utan att ni behöver sjunga alla textvarianter.",
+    "title": "Välj en återkommande godnattvers",
+    "preparation": "Läs igenom textvarianterna och välj en att använda.",
+    "steps": [
+      "Sjung den valda delen med samma lugna början.",
+      "Låt händerna vila medan melodin fortsätter.",
+      "Avsluta med er vanliga godnatthälsning."
+    ],
+    "adaptation": "Nynna melodin om orden blir många eller om barnet hellre vill lyssna.",
+    "discussion": "Texten har olika versioner och religiösa bilder. Välj medvetet vilken ni sjunger i stället för att behandla alla delarna som en sammanhängande berättelse."
+  },
+  "nu-tandas-tusen-juleljus": {
+    "intro": "Ljuset och julens kristna berättelse står i centrum. Sången kan följas med en enkel bild av ljus och mörker.",
+    "title": "Gör en ljusbild till sången",
+    "preparation": "Ta fram mörkt papper och en ljus krita.",
+    "steps": [
+      "Sjung en vers och rita små ljuspunkter.",
+      "Lägg till en stjärna när den nämns.",
+      "Prata efteråt om vad ljuset betyder i texten."
+    ],
+    "adaptation": "Använd händer som öppnas och sluts i stället för ritmaterial.",
+    "discussion": "Sången uttrycker en kristen tro. Presentera det som sångens innehåll och ge plats för att deltagare har olika traditioner och övertygelser."
+  },
+  "nyss-sa-traffa-jag-en-krokodil": {
+    "intro": "Den trånga bilen, svansen och djurets instrument gör sången till en tydlig gestlek.",
+    "title": "Bygg krokodilens bil med händerna",
+    "preparation": "Sitt med fria armar och välj en vers.",
+    "steps": [
+      "Håll en låtsasratt och styr medan ni sjunger.",
+      "Visa det aktuella instrumentet med händerna.",
+      "Svep en arm bakåt som svans och visa platsen på flaket."
+    ],
+    "adaptation": "Låt en vuxen göra bilrörelserna och barnet välja ett enda instrument att gestalta.",
+    "discussion": "De olika verserna ändrar djurets egenskaper. Jämför dem som påhittade berättelser utan att värdera deltagarnas kroppar."
+  },
+  "ole-dole-doff": {
+    "intro": "Nonsensorden och den tydliga rytmen passar för att välja en startperson eller göra ett gemensamt ljudeko.",
+    "title": "Låt ramsan dela ut första turen",
+    "preparation": "Sitt i ring och bestäm vad startpersonen får välja.",
+    "steps": [
+      "Säg ramsan en gång och klappa pulsen.",
+      "Peka i jämn takt runt ringen.",
+      "Låt den sista personen välja första rörelsen eller sången."
+    ],
+    "adaptation": "Säg en kort del i taget som eko om gruppen ännu inte kan hela ramsan.",
+    "discussion": "Orden behöver ingen påhittad översättning. Använd slutet för att ge en tur, utan att låta någon åka ut."
+  },
+  "om-varen-om-varen-arstiderna": {
+    "intro": "Varje årstid får sin egen scen. Prova att samla dem på ett papper och följa årets växlingar.",
+    "title": "Rita årets fyra rutor",
+    "preparation": "Dela ett papper i fyra delar.",
+    "steps": [
+      "Sjung en del och välj rutan för årstiden.",
+      "Rita en händelse eller naturdetalj som nämns.",
+      "Fyll på med ett eget minne eller en fantasi från samma årstid."
+    ],
+    "adaptation": "Gör en årstid i taget och spara papperet till nästa sångstund.",
+    "discussion": "Textens aktiviteter är exempel, inte något alla måste ha gjort. Låt även den som inte vill berätta minnen hitta på en bild."
+  },
+  "pilutta-visan": {
+    "intro": "Hemligheten och retandet ger en utgångspunkt för att prata om nyfikenhet och om att få behålla något för sig själv.",
+    "title": "Ge hemligheten en påhittad form",
+    "preparation": "Välj en leksaksfigur och ett tomt papper.",
+    "steps": [
+      "Sjung en del och låt figuren ha en fantasihemlighet.",
+      "Rita ett paket som skulle kunna innehålla hemligheten.",
+      "Prata om hur någon kan fråga utan att tjata eller muta."
+    ],
+    "adaptation": "Låt deltagarna bara gissa på paketets form, utan att någon behöver avslöja en egen hemlighet.",
+    "discussion": "Pilutta är ett retfullt uttryck. Gör inte leken till ett sätt att hålla någon utanför eller pressa fram privata berättelser."
+  },
+  "pippis-sommarsang": {
+    "intro": "Sommarens färger, djur och sinnesintryck kan bli en gemensam bild där var och en bidrar med en detalj.",
+    "title": "Samla sommarens intryck",
+    "preparation": "Ta fram papper och kritor.",
+    "steps": [
+      "Sjung en vers och välj en sak som går att se eller höra.",
+      "Rita eller gestalta den detaljen.",
+      "Låt nästa deltagare lägga till något annat som hör sommaren till."
+    ],
+    "adaptation": "Gör bilden som en muntlig lista om ni vill sjunga utomhus utan material.",
+    "discussion": "Beskrivningarna leker med det självklara och överdrivna. Fråga vad som gör en dag somrig för just er, utan ett bestämt facit."
+  },
+  "prastens-lilla-kraka": {
+    "intro": "Färden som svänger åt olika håll passar för en liten rörelselek med händer eller figurer.",
+    "title": "Styr kråkans låtsasfärd",
+    "preparation": "Sitt stadigt och låt ena handen föreställa kråkan.",
+    "steps": [
+      "Sjung och för handen framåt över knät.",
+      "Sväng försiktigt åt ena och sedan andra sidan.",
+      "Låt handen stanna i knät när färden tar slut."
+    ],
+    "adaptation": "Rita en krokig väg och följ den med fingret om ni hellre sitter vid bordet.",
+    "discussion": "Ett dike är en fördjupning längs exempelvis en väg. Gestalta slutet med handen utan att tippa eller släppa ett barn."
+  },
+  "prinsessan-tornrosa": {
+    "intro": "Slottet, sömnen och de olika besökarna ger tydliga scener för en berättelselek utan fasta personroller.",
+    "title": "Bygg sagan på bordet",
+    "preparation": "Rita ett slott och välj några leksaksfigurer.",
+    "steps": [
+      "Sjung en del i taget och placera figurerna vid slottet.",
+      "Låt barnet visa vilken scen som kommer sedan.",
+      "Avsluta med att återberätta händelserna med bilderna."
+    ],
+    "adaptation": "En vuxen kan sköta alla roller medan barnet pekar på nästa figur.",
+    "discussion": "Sagans långa sömn är fantasi. Ingen deltagare behöver vara prinsessa, skurk eller ta emot beröring för att leken ska fungera."
+  },
+  "raven-raskar-over-isen": {
+    "intro": "Visan växlar mellan olika figurer och rörelser. Prova en gemensam härmlek där varje figur får en vald gest.",
+    "title": "Ge varje vers en rörelse",
+    "preparation": "Välj de verser ni vill sjunga och en gest till varje.",
+    "steps": [
+      "Börja med små steg på plats.",
+      "Visa den överenskomna gesten när den nya figuren kommer.",
+      "Låt gruppen härma och byt ledare mellan omgångarna."
+    ],
+    "adaptation": "Gör gesterna sittande och låt deltagarna välja hur stora de ska vara.",
+    "discussion": "Textens figurer kan gestaltas lekfullt utan att flickor, pojkar eller äldre förväntas röra sig på ett bestämt sätt."
+  },
+  "rida-rida-ranka": {
+    "intro": "Hästen och resans frågor kan bli en lugn ridtur på plats med en tydlig början och ett stilla slut.",
+    "title": "Följ hästens färd med händerna",
+    "preparation": "Sitt stadigt med händerna i knät.",
+    "steps": [
+      "Markera hovar med lätta växelvisa klappar.",
+      "Gör en paus vid frågorna och låt någon svara med texten.",
+      "Låt hästen stanna när ni kommer fram i berättelsen."
+    ],
+    "adaptation": "Låt en leksakshäst följa en ritad väg i stället för att göra rörelser med kroppen.",
+    "discussion": "Spinna betyder här att göra tråd. De äldre orden kan ni prata om efter färden, utan att avbryta varje fras."
+  },
+  "ro-ro-barnet": {
+    "intro": "Katten och garnet ger en kort berättelse att följa, medan upprepningen kan hållas lugn och jämn.",
+    "title": "Låt en ritad katt komma loss",
+    "preparation": "Rita en katt och några slingrande garnstreck.",
+    "steps": [
+      "Sjung och följ garnlinjen med fingret.",
+      "Låt fingret stanna vid katten.",
+      "Visa en fri väg ut när berättelsen lugnar sig."
+    ],
+    "adaptation": "Nynna och gunga handen lätt om ni vill använda melodin till vila i stället.",
+    "discussion": "Använd bilder i aktiviteten, inte garn runt människor eller djur. Katten kan komma loss helt och hållet på papperet."
+  },
+  "ro-ro-liten-kind": {
+    "intro": "Den väntande stunden och skorna i berättelsen kan bli en kort, stillsam sång med få rörelser.",
+    "title": "Låt händerna vila efter rodden",
+    "preparation": "Sitt bekvämt med händerna fria.",
+    "steps": [
+      "Gör små roddrörelser medan du sjunger början.",
+      "Visa skorna genom att peka mot fötterna.",
+      "Låt händerna stanna i knät när versen slutar."
+    ],
+    "adaptation": "En vuxen kan sjunga utan rörelser om barnet vill ligga stilla och lyssna.",
+    "discussion": "Gulleskor betyder gyllene skor. De hör till sångens bildvärld och behöver inte vara ett löfte om en present."
+  },
+  "ro-ro-till-fiskeskar": {
+    "intro": "Rodd och fisknamn ger en tydlig rörelseberättelse, men texten innehåller också en hård skildring av fångsten.",
+    "title": "Rita roddturen och fiskarna",
+    "preparation": "Ta fram papper med plats för båt och vatten.",
+    "steps": [
+      "Sjung och låt händerna ro i luften.",
+      "Rita stora och små fiskar under båten.",
+      "Prata efteråt om vilka fisknamn som nämndes."
+    ],
+    "adaptation": "Stanna vid att rita färden om ni inte vill gestalta fisket.",
+    "discussion": "Läs hela texten i förväg. Slagen i fiskedelen ska inte härmas mot någon; välj en annan roddvisa om innehållet inte passar."
+  },
+  "ro-ro-till-stora-bron": {
+    "intro": "Resan går från bron vidare till en plats med blommor och fågelljud. Följ vägen med en gemensam karta.",
+    "title": "Rita resans hållplatser",
+    "preparation": "Ta fram ett papper och rita en båt i kanten.",
+    "steps": [
+      "Sjung och rita bron som första hållplats.",
+      "Lägg till platsen som nämns senare i texten.",
+      "Låt barnet välja en blomma att rita där färden slutar."
+    ],
+    "adaptation": "Följ resan med ett finger på papperet medan en vuxen ritar.",
+    "discussion": "Gulleskor är gyllene skor. Danmark är ett verkligt land, men resans blommor och gåvor hör till sångens berättelse."
+  },
+  "rovarnas-visa": {
+    "intro": "De tre rövarnas plan kan bli en berättelse att följa och diskutera utan att göra stöld till en tävlingslek.",
+    "title": "Sortera rövarnas önskelista",
+    "preparation": "Rita några saker som nämns och en tom korg.",
+    "steps": [
+      "Sjung en del och lägg bilderna vid korgen.",
+      "Prata om vad rövarna vill ha och varför.",
+      "Hitta på hur figurerna kunde skaffa sakerna utan att ta dem från andra."
+    ],
+    "adaptation": "Spela en låtsasbutik med figurer där någon frågar och betalar i stället.",
+    "discussion": "Röveri och stöld är delar av fiktionen. Skilj på att sjunga en roll och att tycka att rollens handlingar är bra."
+  },
+  "sa-havre": {
+    "intro": "Sådden och de tydliga rörelserna ger en gemensam följd som kan göras utan redskap eller danspartner.",
+    "title": "Så en låtsasåker tillsammans",
+    "preparation": "Stå med armlängds utrymme eller sitt i ring.",
+    "steps": [
+      "Låt handen sprida låtsasfrön framför er.",
+      "Markera fot och hand där texten tar upp dem.",
+      "Avsluta med en liten vändning eller en cirkel med handen."
+    ],
+    "adaptation": "Låt varje deltagare följa en ledare sittande i stället för att para ihop sig.",
+    "discussion": "Havre är ett sädesslag och att så är att lägga frön för odling. Ni behöver inga verkliga frön i leken."
+  },
+  "sang-till-friheten": {
+    "intro": "Sångens många jämförelser kan bli ett samtal om vad frihet och vänskap betyder i vardagen.",
+    "title": "Rita en bild för frihet",
+    "preparation": "Ta fram papper och välj en kort del av sången.",
+    "steps": [
+      "Lyssna efter en naturbild eller ett ord som väcker en tanke.",
+      "Rita något som känns fritt eller tryggt.",
+      "Låt den som vill berätta om en detalj i sin bild."
+    ],
+    "adaptation": "Låt barnen välja färger eller former utan att behöva förklara en personlig känsla.",
+    "discussion": "Frihet är ett stort begrepp. Börja med konkreta exempel som att få välja lek eller säga vad man tycker."
+  },
+  "sjorovar-fabbe": {
+    "intro": "Den självsäkra sjörövaren och förändringen till sjöss kan bli en liten teater på bordet.",
+    "title": "Låt sjörövaren möta vågorna",
+    "preparation": "Rita ett skepp och välj en leksaksfigur som kapten.",
+    "steps": [
+      "Sjung en del och låt skeppet röra sig på en tänkt vattenyta.",
+      "Gör lugna vågor med händerna när resan förändras.",
+      "Prata om hur kaptenens känslor skiftar."
+    ],
+    "adaptation": "En vuxen kan flytta skeppet medan barnet visar en min till varje del.",
+    "discussion": "Sjösjuka och röveri ingår i berättelsen. Ingen behöver snurra tills den mår illa eller ta saker från andra för att delta."
+  },
+  "sju-vackra-flickor-i-en-ring": {
+    "intro": "Ringens deltagare söker sällskap i texten. Prova en variant där alla får bjuda in utan att någon rangordnas.",
+    "title": "Skicka en vänlig hälsning i ringen",
+    "preparation": "Ställ eller sätt er i ring med gott om plats.",
+    "steps": [
+      "Sjung medan alla gör samma lilla rörelse.",
+      "Låt en vinkning gå ett helt varv.",
+      "Avsluta med att alla vänder sig mot mitten samtidigt."
+    ],
+    "adaptation": "Använd leksaksfigurer i en ring om ni är få eller vill sitta vid ett bord.",
+    "discussion": "Textens ord om skönhet och val av partner behöver inte styra leken. Undvik att välja ut någon som vackrast eller lämna någon ensam."
+  },
+  "skara-skara-havre": {
+    "intro": "Skörden och valet av partner är centrala i texten. Här är ett förslag där rörelserna får vara gemensamma och ingen väljs bort.",
+    "title": "Gör skörderörelser på egna platser",
+    "preparation": "Läs hela texten först och välj en fri yta.",
+    "steps": [
+      "Visa med händerna hur ni samlar låtsasstrån.",
+      "Sjung och gör en gemensam cirkel med armarna.",
+      "Avsluta med en hälsning till hela gruppen i stället för partnerval."
+    ],
+    "adaptation": "Rita en havrekärve och följ rörelserna med fingrarna om ni vill sitta.",
+    "discussion": "Texten innehåller förlöjligande av den som blir utan partner. Använd det som samtalsunderlag, eller välj en annan visa för gruppen."
+  },
+  "skvallerbytta-bing-bang": {
+    "intro": "Den retfulla ramsan passar bättre som samtalsunderlag än som tilltal till en deltagare.",
+    "title": "Prata om att berätta och att retas",
+    "preparation": "Låt en påhittad figur stå för berättelsen.",
+    "steps": [
+      "Läs ramsan utan att rikta den mot någon.",
+      "Prata om hur figuren kan känna sig.",
+      "Hitta på ett vänligare svar till den som vill berätta något."
+    ],
+    "adaptation": "Låt en vuxen visa ett kort samtal mellan två leksaksfigurer.",
+    "discussion": "Att berätta för en vuxen om något farligt eller obehagligt är inte fel. Använd inte ramsan för att tysta någon som söker hjälp."
+  },
+  "sma-grodorna": {
+    "intro": "Grodornas kroppsdelar och ljud ger tydliga hållpunkter för en rörelselek på plats.",
+    "title": "Visa grodorna med händerna",
+    "preparation": "Välj en bekväm plats där alla ser ledaren.",
+    "steps": [
+      "Sjung och låt händerna föreställa små grodor.",
+      "Visa textens kontraster med gester vid öron och svans.",
+      "Markera grodljuden med mjuka klappar på knäna."
+    ],
+    "adaptation": "Gör små knäböj om det passar, eller låt händerna stå för hela dansen.",
+    "discussion": "Sångens beskrivning är förenklad och lekfull. Ni kan prata efteråt om hur en groda ser ut utan att sången behöver bli ett faktaprov."
+  },
+  "sma-sma-fagelungar-sova-i-sitt-bo": {
+    "intro": "Sången går från vila till att prova vingarna. Låt rörelserna följa samma lugna utveckling.",
+    "title": "Låt händerna bli ett fågelbo",
+    "preparation": "Sitt med händerna fria i knät.",
+    "steps": [
+      "Forma ett bo av kupade händer i början.",
+      "Låt fingertopparna vara ungar som vaknar.",
+      "Öppna händerna som vingar när berättelsen går mot flygandet."
+    ],
+    "adaptation": "Gör bara vilodelen om ni vill ha en kort avslutning före vila.",
+    "discussion": "Aptit betyder lust att äta. Prata om fågelungarna som berättelsefigurer och låt barnet slippa jämförelser med sin egen matlust."
+  },
+  "solen-skiner-och-det-regnar": {
+    "intro": "Väderskiftena och de upprepade fraserna gör texten lätt att följa med en bild för varje väder.",
+    "title": "Växla mellan sol, regn och tö",
+    "preparation": "Rita en sol, regndroppar och smältande snö.",
+    "steps": [
+      "Sjung och peka på rätt väderbild.",
+      "Låt händerna visa droppar eller solstrålar.",
+      "Lägg bilderna i sångens ordning efteråt."
+    ],
+    "adaptation": "Visa bara två väderbilder till en början om flera byten blir svåra.",
+    "discussion": "Dugga betyder att det regnar lätt och töa att snö eller is smälter. Texten innehåller också en religiös önskan om beskydd."
+  },
+  "sommarsangen": {
+    "intro": "De många sommarbilderna ger material till en stund där ni lyssnar, minns och lägger till egna detaljer.",
+    "title": "Gör en sommarbild i flera lager",
+    "preparation": "Välj ett papper som alla kan bidra till.",
+    "steps": [
+      "Sjung en del och rita först marken och träden.",
+      "Lägg till ett djur eller en växt ur nästa del.",
+      "Avsluta med en egen detalj som någon i gruppen föreslår."
+    ],
+    "adaptation": "Låt en person beskriva bilden muntligt medan de andra visar detaljerna med gester.",
+    "discussion": "Sången blandar känsla och naturbilder. Barnen kan ha olika upplevelser av sommaren och behöver inte välja samma favoritdetalj."
+  },
+  "sov-alla": {
+    "intro": "Hav, vind och skog får komma till ro i tur och ordning. Låt sångstunden följa samma avtagande rörelse.",
+    "title": "Låt landskapet bli stilla",
+    "preparation": "Sitt bekvämt med händerna på knäna.",
+    "steps": [
+      "Gör små vågor med händerna till havets del.",
+      "För armarna långsamt som träd när skogen nämns.",
+      "Låt alla rörelser upphöra när ni avslutar."
+    ],
+    "adaptation": "Nynna utan rörelser om stunden redan är lugn, och välj bara en del av sången.",
+    "discussion": "Att naturen sover är en bild i sången. Den beskriver stillhet, inte att vind och vågor verkligen behöver sova som människor."
+  },
+  "sov-du-lilla-videung": {
+    "intro": "Vintervilan och väntan på vår ger en lugn sångstund med en naturbild att återkomma till.",
+    "title": "Låt en knopp vila i handen",
+    "preparation": "Sitt bekvämt och forma en lös knopp med handen.",
+    "steps": [
+      "Sjung första delen med handen vilande.",
+      "Öppna fingrarna långsamt när ni föreställer er våren.",
+      "Avsluta med handen stilla i knät."
+    ],
+    "adaptation": "Spara rörelserna till dagtid och sjung utan aktivitet vid läggningen.",
+    "discussion": "Vide är en växt och ljung, rönn och hyacint är andra växtnamn. Sången beskriver deras vila med ett mänskligt bildspråk."
+  },
+  "sov-i-ro-du-lilla-van": {
+    "intro": "Den korta visan blandar vila, mat och någon som vakar. Använd den som en stillsam stund utan fler uppgifter.",
+    "title": "Sjung en kort vilovers",
+    "preparation": "Välj en bekväm plats och läs texten först.",
+    "steps": [
+      "Sjung en gång med lugna, sammanhållna fraser.",
+      "Låt händerna vara stilla i knät.",
+      "Upprepa bara om barnet vill höra melodin igen."
+    ],
+    "adaptation": "Nynna melodin om orden leder till många frågor och ni vill behålla ron.",
+    "discussion": "Att vaka betyder att vara vaken och hålla uppsikt. Textens mat kan ni prata om vid ett annat tillfälle i stället för att lova en viss kvällsmat."
+  },
+  "sov-lilla-totte": {
+    "intro": "Den som ska sova visar sig ha gjort en rad hundhyss. Sången lämpar sig för att lyssna efter vem berättelsen handlar om.",
+    "title": "Rita vem Totte är",
+    "preparation": "Ta fram papper och läs hela visan före sångstunden.",
+    "steps": [
+      "Sjung en del utan att visa en bild.",
+      "Låt barnet fundera på vem Totte kan vara.",
+      "Rita hunden och prata om vilka ledtrådar som hjälpte er."
+    ],
+    "adaptation": "Avslöja hunden från början om gåtan annars blir för svår.",
+    "discussion": "Texten skämtar om skrämmande och bitande. Skilj mellan skämtet och hur man vill att en hund möter människor i verkligheten."
+  },
+  "sov-nu-lillebror": {
+    "intro": "Sången rymmer både omsorg och svåra känslor kring ett syskon. Låt den öppna ett samtal utan krav på personliga svar.",
+    "title": "Ge syskonfiguren plats att berätta",
+    "preparation": "Välj två leksaksfigurer eller rita två syskon.",
+    "steps": [
+      "Sjung en del och låt den större figuren få en pratbubbla.",
+      "Skriv eller rita något figuren tycker är roligt och något som är svårt.",
+      "Låt en vuxenfigur lyssna och svara."
+    ],
+    "adaptation": "Använd helt påhittade syskon om barnet inte vill prata om sin egen familj.",
+    "discussion": "Motstridiga känslor får finnas. En större syskonfigur kan bry sig om den mindre utan att få ansvar för att vakta ett spädbarn i verkligheten."
+  },
+  "stekta-harar-godda-svin": {
+    "intro": "Texten uppmanar till dans och kraftiga rörelser. Prova en varsam variant där alla rör sig på sin egen plats.",
+    "title": "Bjud in med en gest",
+    "preparation": "Ställ eller sätt er i ring utan att hålla fast varandra.",
+    "steps": [
+      "Sjung och markera pulsen med händerna.",
+      "Gör en inbjudande vinkning när en ny person nämns.",
+      "Avsluta med ett mjukt tramp eller en klapp tillsammans."
+    ],
+    "adaptation": "Gör hela följden med händerna om tramp och vändningar inte passar.",
+    "discussion": "Tilja betyder en golvbräda. Textens uppmaningar att slänga någon ska inte utföras; en vinkning räcker för inbjudan."
+  },
+  "tank-om-du-var-jag-och-jag-var-du": {
+    "intro": "Rollbytet mellan stor och liten gör sången till ett samtal om vardag, hjälp och närhet.",
+    "title": "Byt perspektiv med två figurer",
+    "preparation": "Välj en stor och en liten leksaksfigur.",
+    "steps": [
+      "Sjung en del och visa vem som gör vad.",
+      "Låt figurerna byta vardagssyssla i en påhittad scen.",
+      "Fråga vad som skulle vara lätt eller svårt för dem."
+    ],
+    "adaptation": "Rita två bilder av samma kväll ur olika personers perspektiv.",
+    "discussion": "Det är ett fantasibyte. Barnet behöver inte ta vuxenansvar eller visa tacksamhet för att få delta i samtalet."
+  },
+  "tank-om-jag-hade-en-liten-liten-apa": {
+    "intro": "Den lilla apan och omgivningens förvåning ger en kort fantasilek med återkommande rytm.",
+    "title": "Låt handen bli en fantasiapa",
+    "preparation": "Sitt med händerna fria och välj en liten rörelse.",
+    "steps": [
+      "Sjung och låt handen föreställa apan.",
+      "Markera den återkommande rytmen med andra handen på knät.",
+      "Låt barnet välja vad låtsasapan gör nästa omgång."
+    ],
+    "adaptation": "Rita apan i en påhittad miljö i stället för att göra rörelser.",
+    "discussion": "Sångens önskan hör till fantasin. Aktiviteten behöver inte bli en diskussion om att ha ett riktigt vilt djur hemma."
+  },
+  "tank-om-vi-var-harar": {
+    "intro": "Fantasins stora och lilla hare gör det möjligt att utforska en berättelse ur ett djurs perspektiv.",
+    "title": "Rita en dag som hare",
+    "preparation": "Ta fram papper med plats för flera små scener.",
+    "steps": [
+      "Sjung en del och rita hararnas sovplats.",
+      "Lägg till något de gör tillsammans.",
+      "Låt barnet välja vilken scen som ska komma sist."
+    ],
+    "adaptation": "Låt fingrarna skutta på bordet om ni hellre vill gestalta än rita.",
+    "discussion": "Palt betyder harunge. Textens platser och handlingar är fantasier; välj egna trygga lekplatser när ni gör rörelser på riktigt."
+  },
+  "tank-om-vi-var-spindlar": {
+    "intro": "Spindelfamiljens påhittade hem och många armar ger material till både en fingerlek och en fantasibild.",
+    "title": "Bygg ett spindelhem på papper",
+    "preparation": "Ta fram papper och en krita.",
+    "steps": [
+      "Sjung och rita trådar som korsar varandra.",
+      "Låt fingertopparna gå som spindlar över nätet.",
+      "Rita en egen plats där fantasispindlarna kan vila."
+    ],
+    "adaptation": "Gör bara långsamma fingerrörelser i knät om stunden ska vara lugn.",
+    "discussion": "Berättelsen blandar djurdrag med mänsklig omsorg. Den är fantasi; ni behöver inte klättra vid fönster eller stoppa något i kranar och ventiler."
+  },
+  "trollmors-vaggvisa": {
+    "intro": "Trollens antal och den korta återkommande delen ger två olika sätt att använda sången: en lugn godnattstund eller en räknestund dagtid.",
+    "title": "Låt fingertrollen komma till ro",
+    "preparation": "Sitt bekvämt och låt händerna föreställa små troll.",
+    "steps": [
+      "Sjung berättardelen medan fingrarna rör sig långsamt.",
+      "Låt händerna vila under den återkommande delen.",
+      "Avsluta med att trollmor också får vara stilla."
+    ],
+    "adaptation": "Rita och räkna elva troll vid en separat stund om barnet är nyfiket på antalet.",
+    "discussion": "Trollsvansarna hör till sagan. Använd inga band eller knutar runt barn eller djur för att gestalta texten."
+  },
+  "tula-hem-och-tula-vall": {
+    "intro": "Vallningen och den enkla maten ger en kort berättelse där flera äldre ord kan upptäckas tillsammans.",
+    "title": "Packa en ritad matsäck",
+    "preparation": "Rita en påse på ett papper.",
+    "steps": [
+      "Sjung eller läs och lyssna efter maten.",
+      "Rita det som berättaren får med sig.",
+      "Låt barnet lägga till en egen påhittad matsäck efter sången."
+    ],
+    "adaptation": "Använd leksaksmat om ni vill leka affär eller utflykt utan att rita.",
+    "discussion": "Att gå vall är att vakta betande djur. Prata om vad berättaren får och inte får, utan att göra det till en provsmakning."
+  },
+  "tummeliten": {
+    "intro": "Tåget genom skogen och den stora jätten ger tydliga storlekskontraster och en berättelse att återge.",
+    "title": "Gör en liten skogsvandring på bordet",
+    "preparation": "Välj små figurer och rita några träd.",
+    "steps": [
+      "Sjung början och låt figurerna gå i rad.",
+      "Stanna när berättelsen blir spännande och visa nästa plats.",
+      "Låt barnet återberätta hur figurerna tar sig vidare."
+    ],
+    "adaptation": "En vuxen kan berätta och barnet bara flytta den minsta figuren.",
+    "discussion": "Jätten och farorna kan kännas otäcka. Läs hela texten först och låt barnet styra om ni fortsätter eller väljer en lugnare visa."
+  },
+  "tussa-lulla-liten-van": {
+    "intro": "Väntan på en förälder och de nya skorna kan följas med en enkel bild innan sången får bli stilla.",
+    "title": "Sjung med en liten skobild",
+    "preparation": "Rita ett par skor på papper.",
+    "steps": [
+      "Visa skorna när de nämns i sången.",
+      "Låt bilden vila på bordet medan du sjunger färdigt.",
+      "Avsluta med en stilla stund utan fler frågor."
+    ],
+    "adaptation": "Nynna melodin utan bild när ni använder sången vid läggning.",
+    "discussion": "Örebro är ett ortnamn och spännen är anordningar som håller exempelvis skor stängda. Gåvorna i texten är inte löften om vad som ska hända nu."
+  },
+  "tussa-lulla-litet-barn": {
+    "intro": "Den korta visan kopplar en resa till en gåva och vila. Använd den till en lugn sångstund med få avbrott.",
+    "title": "Låt resan sluta i vila",
+    "preparation": "Sitt bekvämt och välj om ni vill ha en bild till sången.",
+    "steps": [
+      "Rita ett par skor innan ni börjar.",
+      "Sjung och låt ett finger följa en liten resa över papperet.",
+      "Låt fingret stanna när versen är slut."
+    ],
+    "adaptation": "Sjung utan rörelser om barnet hellre vill ligga stilla och lyssna.",
+    "discussion": "Nävekvarn är ett ortnamn. Granna betyder fina; skorna hör till berättelsen, utan att barnet behöver vänta sig en verklig gåva."
+  },
+  "tussilull-din-mamma-har-sagt": {
+    "intro": "De vakande änglarna bildar en stilla ring i texten. Sången kan följas med en långsam cirkelrörelse.",
+    "title": "Rita en skyddande ring i luften",
+    "preparation": "Sitt med händerna bekvämt framför dig.",
+    "steps": [
+      "Sjung början med händerna vilande.",
+      "Rita en liten cirkel i luften när ringen nämns.",
+      "Låt handen återvända till knät och avsluta lugnt."
+    ],
+    "adaptation": "Låt barnet bara lyssna om rörelser stör vilan.",
+    "discussion": "Texten använder religiösa bilder av änglar som vakar. Presentera dem som en del av visan och välj om det passar er familj eller grupp."
+  },
+  "ute-blaser-sommarang": {
+    "intro": "Vind, vatten och familjens sysslor ger flera små sommarscener att följa utan att gestalta allt på en gång.",
+    "title": "Välj en sommarscen att visa",
+    "preparation": "Ta fram papper och välj en vers.",
+    "steps": [
+      "Sjung och rita platsen i den valda versen.",
+      "Låt handen visa vinden eller bäckens rörelse.",
+      "Berätta om en detalj som barnet vill lägga till."
+    ],
+    "adaptation": "Gör en ny versbild en annan dag och samla bilderna till en liten sångbok.",
+    "discussion": "Lind, asp och al är trädnamn. Äldre ord och familjeroller kan ni prata om efteråt utan att bestämma vem i gruppen som ska göra vad."
+  },
+  "uti-var-hage": {
+    "intro": "Blommorna och den återkommande inbjudan ger sången en tydlig ram för en ritad trädgård.",
+    "title": "Gör en blomsterkrans på papper",
+    "preparation": "Rita en stor cirkel på ett papper.",
+    "steps": [
+      "Sjung en del och välj en blomma ur texten.",
+      "Rita den längs cirkeln.",
+      "Fortsätt med egna blommor eller färger tills er papperskrans är klar."
+    ],
+    "adaptation": "Forma en krans med händerna om ni inte vill använda ritmaterial.",
+    "discussion": "Aquileja är akleja och krusmynta är en ört. Ni behöver inte plocka eller smaka växter för att följa textens blomsterbilder."
+  },
+  "vaggvisa": {
+    "intro": "Sångens lugnande början ställs mot en beväpnad vakt och hårda ord. Den behöver bedömas efter sitt innehåll, inte bara sin titel.",
+    "title": "Läs och jämför textens stämningar",
+    "preparation": "Välj en samtalsstund där ni kan stanna upp, hellre än precis vid läggning.",
+    "steps": [
+      "Läs hela texten själv först.",
+      "Läs en vald del tillsammans om den passar deltagarna.",
+      "Prata om skillnaden mellan tryggheten som utlovas och hoten som beskrivs."
+    ],
+    "adaptation": "Välj en annan sång för en lugn vilostund om kontrasten känns obehaglig.",
+    "discussion": "Texten innehåller vapen, hot och svordom. Sångförslaget här är en läs- och samtalsstund, ingen lek där någon spelar beväpnad vakt."
+  },
+  "vaggvisa-for-liten-gron-banan": {
+    "intro": "Bananen som vilar på sin gren ger en ovanlig och tydlig bild för en stillsam sångstund.",
+    "title": "Låt låtsasbananen vila",
+    "preparation": "Rita en grön banan eller forma den med en böjd hand.",
+    "steps": [
+      "Sjung en del medan handen vilar som på en gren.",
+      "Visa månen med andra handen när den nämns.",
+      "Låt båda händerna bli stilla vid slutet."
+    ],
+    "adaptation": "Rita en gul banan vid en annan stund och prata om färgbytet utan att göra det under läggningen.",
+    "discussion": "Texten låter månen vara en förälder och ljuset bli mjölk. Det är poetiska bilder, inte en beskrivning av hur bananer får näring."
+  },
+  "vaggvisa-for-min-son-carl": {
+    "intro": "Bakom vaggvisans tilltal finns allvarliga bilder av livet och döden. Läs hela texten innan du väljer den för en sångstund.",
+    "title": "Lyssna och samtala om en bild",
+    "preparation": "Välj en kort del och en lugn plats där det finns tid för frågor.",
+    "steps": [
+      "Läs delen och förklara svåra ord.",
+      "Sjung eller nynna melodin.",
+      "Låt den som vill rita en bild ur texten efteråt."
+    ],
+    "adaptation": "Välj en annan vaggvisa om ni söker en enkel, trygg godnattstund utan tunga teman.",
+    "discussion": "Texten innehåller död och livets svårigheter. En lugn melodi betyder inte automatiskt att orden passar små barn vid läggdags."
+  },
+  "var-bor-du-lilla-ratta": {
+    "intro": "Frågor och oväntade svar gör visan lätt att dela upp mellan två röster.",
+    "title": "Låt råttan svara",
+    "preparation": "Rita en råtta och några av sakerna som nämns.",
+    "steps": [
+      "En person sjunger frågorna.",
+      "En annan svarar som råttan och pekar på en passande bild.",
+      "Byt roller och hitta sedan på en egen fråga efter sången."
+    ],
+    "adaptation": "En vuxen kan sjunga båda rollerna medan barnet bara visar råttans svar med gester.",
+    "discussion": "Spisa betyder äta. De orimliga svaren är en del av ordleken; ni behöver inte reda ut dem som fakta."
+  },
+  "vargsangen": {
+    "intro": "Vargen utanför och den skyddande rösten skapar en stark kontrast. Välj sången efter hur barnet reagerar på berättelsen.",
+    "title": "Rita inne och ute",
+    "preparation": "Ta fram papper och läs texten först.",
+    "steps": [
+      "Rita en skog på ena sidan och en trygg plats på den andra.",
+      "Sjung en del och peka på var berättelsen utspelar sig.",
+      "Låt barnet välja om bilden ska fortsätta eller om ni avslutar."
+    ],
+    "adaptation": "Nynna melodin eller välj en annan visa om vargen väcker oro.",
+    "discussion": "Vargen är hungrig och upplevs som hotfull i texten. Använd inte ett plötsligt ylande eller en skrämselgest under vilostunden."
+  },
+  "vart-ska-du-ga-min-lilla-flicka": {
+    "intro": "Frågorna om resan och svaret på inbjudan ger en tydlig dialog som går att sjunga med figurer.",
+    "title": "Låt två figurer fråga och svara",
+    "preparation": "Välj två leksaksfigurer och en bild av en get.",
+    "steps": [
+      "Sjung frågan med den ena figuren.",
+      "Låt den andra svara och visa vart den är på väg.",
+      "Låt figurerna gå tillsammans när inbjudan kommer."
+    ],
+    "adaptation": "En vuxen kan göra båda rösterna medan barnet flyttar figurerna.",
+    "discussion": "Dricka betyder här något att dricka och tärna är ett äldre tilltal. Rollerna kan fördelas fritt, oavsett deltagarnas kön."
+  },
+  "vattenvisan": {
+    "intro": "Frågorna binder samman regn, snö, is och vardagens vatten. Prova att sortera bilder och motivera valen.",
+    "title": "Hitta vatten i olika bilder",
+    "preparation": "Rita regn, snö, en sjö och en vattenkran.",
+    "steps": [
+      "Sjung en fråga och välj bilden som passar.",
+      "Låt deltagarna visa vattnets rörelse med händerna.",
+      "Lägg bilderna tillsammans och prata om vad som förenar dem."
+    ],
+    "adaptation": "Titta efter vatten genom fönstret eller i rummet om ni inte vill rita.",
+    "discussion": "Skilj mellan det ni kan se, som regn, och det ni behöver prata om, som vatten som fryser. Aktiviteten kräver inga vattenexperiment."
+  },
+  "vem-kan-segla-forutan-vind": {
+    "intro": "Frågorna om båten övergår i en känsla inför att skiljas. Sången ger plats för både rörelser och ett stilla samtal.",
+    "title": "Sjung frågan och svaret var för sig",
+    "preparation": "Bestäm vem som sjunger frågedelen och vem som svarar.",
+    "steps": [
+      "Gör en liten segelbåt med händerna i början.",
+      "Låt en person sjunga frågan och en annan svaret.",
+      "Prata efteråt om hur man kan säga hej då på ett fint sätt."
+    ],
+    "adaptation": "En vuxen kan sjunga allt medan barnet ritar en båt eller bara lyssnar.",
+    "discussion": "Forutan betyder utan. Ingen behöver berätta om en egen separation eller förklara varför den blir ledsen."
+  },
+  "vi-har-en-tulta-med-ogon-bla": {
+    "intro": "Beskrivningen av ett litet barn kan bli en pek- och docklek där figuren står i centrum.",
+    "title": "Visa dockans händer och fötter",
+    "preparation": "Välj en docka eller rita en person.",
+    "steps": [
+      "Sjung en del och peka på den kroppsdel som nämns.",
+      "Låt barnet visa motsvarande del på dockan.",
+      "Ge dockan en egen rörelse när sången tar slut."
+    ],
+    "adaptation": "Använd den ritade figuren om kroppsnära rörelser inte känns bra.",
+    "discussion": "Tulta är ett tilltal till ett litet barn och trind betyder rund. Beskriv dockan utan att jämföra eller värdera deltagarnas kroppar."
+  },
+  "vi-ska-stalla-till-en-roliger-dans": {
+    "intro": "Krona, krans och inbjudan till dans ger en ram för en gemensam festlek utan särskilda par.",
+    "title": "Gör en gemensam festdans",
+    "preparation": "Välj två lugna rörelser och stå på egna platser.",
+    "steps": [
+      "Sjung och forma en krona med händerna.",
+      "Byt till en cirkel som föreställer kransen.",
+      "Avsluta med samma lilla dansrörelse tillsammans."
+    ],
+    "adaptation": "Rita kronan och kransen och låt fingrarna dansa mellan bilderna om ni vill sitta.",
+    "discussion": "Roliger är en äldre ordform för rolig. Dansen kan göras av alla på sitt sätt utan att någon ska väljas som finast."
+  },
+  "videvisan": {
+    "intro": "Videt som väntar på våren ger en naturbild att följa genom stillhet och långsamt öppnande händer.",
+    "title": "Visa vägen från vinter till vår",
+    "preparation": "Sitt med en hand lätt sluten som en knopp.",
+    "steps": [
+      "Sjung vinterdelen med handen stilla.",
+      "Låt fingrarna öppna sig långsamt när ni föreställer er grönskan.",
+      "Avsluta med händerna vilande tillsammans."
+    ],
+    "adaptation": "Rita vinter och vår vid en annan stund och låt barnet peka på skillnaderna.",
+    "discussion": "Vide är ett växtnamn. Växterna får sova i sångens bildspråk; prata gärna om orden utan att störa en pågående vilostund."
+  },
+  "vyss-vyss-barnet-sover": {
+    "intro": "Visan rör sig kring lyssnande, vila och att låta den som sover få ro. Följ den med en stilla dockscen.",
+    "title": "Låt ett mjukdjur vila",
+    "preparation": "Välj ett mjukdjur och en bekväm plats.",
+    "steps": [
+      "Låt mjukdjuret vara stilla medan du sjunger.",
+      "Sänk rösten försiktigt när djuren ombeds vara tysta.",
+      "Avsluta med att också händerna vilar."
+    ],
+    "adaptation": "Sjung utan mjukdjur om barnet hellre bara lyssnar på rösten.",
+    "discussion": "Pärlan används som en öm bild av barnet. Sångens tystnad är en stämning att prova, inte ett krav på att alla måste somna."
+  },
+  "vyss-vyss-du-lilla": {
+    "intro": "Katten, hornet och blommorna ger en liten följd av bilder att lyssna efter före vilan.",
+    "title": "Följ kvällsbilderna med handen",
+    "preparation": "Sitt bekvämt och välj en del av texten.",
+    "steps": [
+      "Visa katten med en liten handrörelse.",
+      "Forma ett låtsashorn tyst när det nämns.",
+      "Låt handen sjunka till knät vid slutet."
+    ],
+    "adaptation": "Läs bilderna dagtid och nynna bara melodin när barnet ska vila.",
+    "discussion": "Vrå betyder ett hörn eller en liten undanskymd plats. Ljudet från hornet kan få stanna i fantasin om ni vill behålla lugnet."
+  },
+  "vyssan-lull": {
+    "intro": "De återkommande tre grupperna ger ett mönster att känna igen, medan melodin kan användas helt stilla vid läggningen.",
+    "title": "Lyssna efter grupper om tre",
+    "preparation": "Välj en eller två verser och sitt bekvämt.",
+    "steps": [
+      "Sjung och visa tre fingrar när en ny grupp nämns.",
+      "Låt fingrarna vila under resten av versen.",
+      "Avsluta lugnt utan att göra räknandet till en fråga barnet måste svara på."
+    ],
+    "adaptation": "Rita tre stjärnor dagtid och sjung utan rörelser när det är dags att vila.",
+    "discussion": "En kittel är ett stort kokkärl och en vandringsman en person på vandring. Beskriv personerna utan att härma funktionsnedsättningar."
+  },
+  "ylle": {
+    "intro": "De många påhittade ylleorden gör sången till en lek med ljud, rim och en egen fantasifigur.",
+    "title": "Rita en figur som får ett yllenamn",
+    "preparation": "Ta fram papper och kritor.",
+    "steps": [
+      "Sjung en del och rita hur figuren skulle kunna se ut.",
+      "Säg ett kort påhittat ord som rimmar på figurens namn.",
+      "Låt nästa deltagare lägga till en detalj och ett nytt ljud."
+    ],
+    "adaptation": "Använd bara röst och gester om ni vill skapa figuren utan papper.",
+    "discussion": "Nylle är ett vardagligt ord för ansikte. De påhittade orden behöver inget facit, och leken kräver varken ull eller garn."
+  }
+}
